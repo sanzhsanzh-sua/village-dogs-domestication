@@ -1,0 +1,40 @@
+# Reference genome + bwa index -- ~2.4GB, reproducible via scripts/01_download_and_align.sh
+reference/
+
+# Raw sequencing / SRA scratch -- never committed, deleted after each sample anyway
+sra_tmp/
+fqd_tmp/
+
+*.sra
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.fna
+*.fna.fai
+*.fa
+*.fa.fai
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+
+# BAMs -- small in this project (region-restricted to 246 CDR, ~20-25MB
+# each) but still raw alignment data, reproducible from the pipeline;
+# same policy as the other genomics projects (fennec/fox stages).
+aligned/*.bam
+aligned/*.bai
+aligned/*.sorted.bam
+aligned/*.sorted.bam.bai
+
+# Logs
+aligned/*.log
+aligned/watchdog*.log
+aligned/supervisor*.log
+
+# Large NCBI datasets zips / raw XLSX downloads already parsed to TSV
+*.zip
+
+# OS cruft
+.DS_Store
+.claude/

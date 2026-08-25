@@ -1,0 +1,725 @@
+Supplementary Data 1. Catalog of the 722 canids genomes
+Name_ID_Study	Name_ID_SRA	Breed/CommonName	BioProject	BioSample	Sex	CoverageAll	CoverageX	CoverageRatio	AnalysisName_Phylo	Phylo_Results	Phylo_Bootstrap	Phylo_Notes	Genotyped on Illumina canine HD array	Used to do WGS/SNP chip comparison	Other_Information
+Afghan Hound 1	AfghanHound01	Afghan Hound	PRJNA208087	SAMN02194722	M	28.370799999999999	15.3887	1.8436125208757075	Afghan Hound 1	Afghan Hound	100				Clone of SCN Donor
+Afghan Hound 2	AfghanHound03	Afghan Hound	PRJNA232497	SAMN02485564	F	7.6433299999999997	7.7159800000000001	0.99058447533560212	Afghan Hound 2	Afghan Hound	100				
+Afghan Hound 3	AfghanHound04	Afghan Hound	PRJNA266585	SAMN03168377	M	17.566099999999999	9.9233100000000007	1.7701855530060027	Afghan Hound 3	Afghan Hound	100				
+Airedale Terrier 1	AiredaleTerrier01	Airedale Terrier	PRJNA263947	SAMN03580381	M	15.5718	9.1424500000000002	1.703241472471821	Airedale Terrier 1	Airedale Terrier	100				
+Airedale Terrier 2	AiredaleTerrier02	Airedale Terrier	PRJNA263947	SAMN03580390	F	34.661099999999998	35.084299999999999	0.98793762452150957	Airedale Terrier 2	Airedale Terrier	100				
+Airedale Terrier 3	AiredaleTerrier05	Airedale Terrier	PRJNA263947	SAMN04196850	M	23.947600000000001	13.373900000000001	1.7906220324662214	Airedale Terrier 3	Airedale Terrier	100				
+Airedale Terrier 4	TA001	Airedale Terrier	PRJEB16012	SAMEA4506896	M	24.9529	13.8024	1.8078667478119745	Airedale Terrier 4	Airedale Terrier	100				
+Alaskan Husky 1	AlaskanHusky01	Alaskan Husky	PRJEB9590	SAMEA3449656	M	16.607199999999999	9.3263200000000008	1.780680911656473	Alaskan Husky 1	outside Siberian Husky clade	100			
+Alaskan Husky 2	AlaskanHusky02	Alaskan Husky	PRJEB9591	SAMEA3449657	M	12.9139	7.1669999999999998	1.8018557276405749	Alaskan Husky 2	Siberian Husky	100			
+Alaskan Malamute 1	AM007	Alaskan Malamute	PRJEB16012	SAMEA104091571	M	17.048400000000001	9.6414899999999992	1.7682329183559804	Alaskan Malamute 1	Alaskan Malamute	100				
+Alaskan Malamute 2	AlaskanMalamute01	Alaskan Malamute	PRJNA448733	SAMN08872810	F	45.771099999999997	46.6282	0.98161841975456909	Alaskan Malamute 2	Alaskan Malamute	100				
+Alaskan Malamute 3	AlaskanMalamute02	Alaskan Malamute	PRJNA266585	SAMN03168378	F	16.368500000000001	16.483699999999999	0.99301127780777387	Alaskan Malamute 3	Alaskan Malamute	100				
+Alpine Dachsbracke	Bern_AlpineDachsbracke	Alpine Dachsbracke	PRJEB14840	SAMEA4346711	M	34.944899999999997	20.4969	1.7048870804853415	Alpine Dachsbracke	with Bavarian Hound outside Dachshund clade	64	Breed not available for comparison			
+American Hairless Terrier	AmericanHairlessTerrier01	American Hairless Terrier	PRJNA448733	SAMN08872813	F	50.9758	51.3855	0.99202693366805805	American Hairless Terrier	American Hairless Terrier	100		yes	yes	
+Andean Fox	AndeanFox01	Andean Fox	PRJNA232497	SAMN02487034	F	14.5909	14.585000000000001	1.0004045251971203							Andean Fox (Culpeo) [Lycalopex culpaeus]
+Australian Cattle Dog 1	AC023	Australian Cattle Dog	PRJEB16012	SAMEA104091560	M	25.3688	14.1469	1.7932409220394574	Australian Cattle Dog 1	Australian Cattle Dog	100				
+Australian Cattle Dog 2	AustralianCattleDog01	Australian Cattle Dog	PRJNA263947	SAMN03323677	F	28.3248	28.426100000000002	0.99643637361438953	Australian Cattle Dog 2	Australian Cattle Dog	100				
+Australian Cattle Dog 3	AustralianCattleDog02	Australian Cattle Dog	PRJEB13468	SAMEA3928139	F	19.588799999999999	19.937100000000001	0.98253005702935725	Australian Cattle Dog 3	Australian Cattle Dog	100			
+Australian Cattle Dog 4	AustralianCattleDog03	Australian Cattle Dog	PRJEB16012	SAMEA4504820	F	20.499400000000001	20.601900000000001	0.99502473072871922	Australian Cattle Dog 4	Australian Cattle Dog	100			
+Australian Terrier	AR001	Australian Terrier	PRJEB16012	SAMEA4504840	M	29.0017	16.180800000000001	1.7923526648867791	Australian Terrier	Australian Terrier	100				
+Basenji 1	CFA.118003	Basenji	PRJNA263947	SAMN06159689	M	38.845999999999997	21.469899999999999	1.8093237509257145	Basenji 1	Basenji	100				
+Basenji 2	Basenji01	Basenji	PRJNA274504	SAMN03366708	M	6.4178499999999996	3.82856	1.676309108385398	Basenji 2	Basenji	100				
+Basenji 3	Basenji02	Basenji	PRJNA263947	SAMN04196845	F	13.961499999999999	14.1515	0.98657386142811709	Basenji 3	Basenji	100				
+Basenji 4	Basenji03	Basenji	PRJNA263947	SAMN03580393	F	26.919599999999999	27.6907	0.97215310555529477	Basenji 4	Basenji	100				
+Bavarian Hound (Bayerischer Gebirgsschweisshund)	BG064	Bavarian Hound (Bayerischer Gebirgsschweisshund)	PRJEB16012	SAMEA104091562	M	36.6783	20.5181	1.7876070396381731	Bavarian Hound	with Alpine Dachsbracke outside Dachshund clade	64	Breed not available for comparison			
+Beagle 1	CFA.117995	Beagle	PRJNA263947	SAMN06159681	M	38.453400000000002	21.248799999999999	1.8096739580588082	Beagle 1	Beagle	100				
+Beagle 2	Beagle01	Beagle	PRJNA288568	SAMN03801644	M	51.851799999999997	29.212	1.7750171162535944	Beagle 2	Beagle	100		yes	yes	
+Beagle 3	Beagle02	Beagle	PRJNA176193	SAMN01737209	F	49.357500000000002	49.061300000000003	1.0060373451172309	Beagle 3	Beagle	100				
+Beagle 4	Beagle03	Beagle	PRJEB5500	SAMEA2376414	F	15.342499999999999	15.365500000000001	0.99850314015163832	Beagle 4	Beagle	100			
+Beagle 5	Beagle04	Beagle	PRJNA288568	SAMN03801645	F	19.935199999999998	20.4101	0.97673210812293909	Beagle 5	Beagle	100				
+Bearded Collie 1	BeardedCollie01	Bearded Collie	PRJEB13468	SAMEA3928140	F	19.352599999999999	19.438300000000002	0.99559117824089538	Bearded Collie 1	Bearded Collie	100			
+Bearded Collie 2	BeardedCollie02	Bearded Collie	PRJEB16012	SAMEA4505492	M	21.424900000000001	12.0138	1.7833574722402572	Bearded Collie 2	Bearded Collie	100			
+Bearded Collie 3	BeardedCollie03	Bearded Collie	PRJEB16012	SAMEA4504824	M	17.593699999999998	9.8060100000000006	1.7941752047978736	Bearded Collie 3	Bearded Collie	100			
+Bearded Collie 4	BeardedCollie04	Bearded Collie	PRJEB16012	SAMEA4505493	F	18.050999999999998	18.159700000000001	0.99401421829655767	Bearded Collie 4	Bearded Collie	100			
+Bearded Collie 5	BeardedCollie05	Bearded Collie	PRJEB16012	SAMEA4504827	M	16.517700000000001	9.1703799999999998	1.801201258835512	Bearded Collie 5	Bearded Collie	100			
+Bearded Collie 6	BeardedCollie06	Bearded Collie	PRJEB16012	SAMEA4505496	M	11.4566	6.3598600000000003	1.8013918545376784	Bearded Collie 6	Bearded Collie	100			
+Bearded Collie 7	BeardedCollie07	Bearded Collie	PRJEB16012	SAMEA4504832	M	12.3652	6.81928	1.813270609213876	Bearded Collie 7	Bearded Collie	100			
+Belgian Malinois 1	BelgianMalinois01	Belgian Malinois	PRJNA192935	SAMN01974495	F	10.6915	10.048299999999999	1.0640108277021985	Belgian Malinois 1	Belgian Malinois	88				
+Belgian Malinois 2	BelgianMalinois02	Belgian Malinois	PRJEB16012	SAMEA4504823	F	17.023399999999999	17.078600000000002	0.99676788495544111	Belgian Malinois 2	Belgian Malinois	88			
+Belgian Malinois 3	BelgianMalinois03	Belgian Malinois	PRJEB16012	SAMEA4504826	F	16.650300000000001	16.7578	0.99358507680005737	Belgian Malinois 3	Belgian Malinois	88			
+Belgian Malinois 4	MA0163	Belgian Malinois	PRJEB16012	SAMEA104032048	F	30.833500000000001	31.245899999999999	0.98680146835264793	Belgian Malinois 4	Belgian Malinois	88				
+Belgian Malinois 5	MA142	Belgian Malinois	PRJEB16012	SAMEA104125121	M	33.512300000000003	19.129899999999999	1.7518282897453727	Belgian Malinois 5	Belgian Malinois	88				
+Belgian Sheepdog 1	BelgianSheepdog01	Belgian Sheepdog	PRJNA288568	SAMN03801646	F	45.505600000000001	45.964599999999997	0.99001405429395672	Belgian Sheepdog 1	Belgian Sheepdog/Tervuren	100		yes	yes
+Belgian Sheepdog 2	BelgianSheepdog02	Belgian Sheepdog	PRJNA448733	SAMN08872843	M	15.321099999999999	8.6722599999999996	1.7666790432943662	Belgian Sheepdog 2	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Sheepdog 3	BelgianSheepdog03	Belgian Sheepdog	PRJNA448733	SAMN08872844	F	20.019100000000002	20.416499999999999	0.98053535130899039	Belgian Sheepdog 3	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Sheepdog 4	BelgianSheepdog04	Belgian Sheepdog	PRJNA448733	SAMN08872845	F	14.630800000000001	14.922700000000001	0.9804391966601218	Belgian Sheepdog 4	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Sheepdog 5	BelgianSheepdog05	Belgian Sheepdog	PRJNA448733	SAMN08872846	M	16.1601	9.1005199999999995	1.7757336943383455	Belgian Sheepdog 5	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Sheepdog 6	BelgianSheepdog06	Belgian Sheepdog	PRJNA448733	SAMN08872847	M	23.139900000000001	13.1195	1.7637791074354967	Belgian Sheepdog 6	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Sheepdog 7	BelgianSheepdog07	Belgian Sheepdog	PRJNA448733	SAMN08872848	F	13.6036	13.87	0.98079307858687825	Belgian Sheepdog 7	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 1	BelgianTervuren01	Belgian Tervuren	PRJNA448733	SAMN08872849	F	37.490299999999998	38.084899999999998	0.98438751316138418	Belgian Tervuren 1	Belgian Sheepdog/Tervuren	100		yes	yes	
+Belgian Tervuren 2	BelgianTervuren02	Belgian Tervuren	PRJNA448733	SAMN08872850	M	14.5738	8.2635900000000007	1.7636160554916203	Belgian Tervuren 2	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 3	BelgianTervuren03	Belgian Tervuren	PRJNA448733	SAMN08872851	F	12.2446	12.5646	0.97453162058481768	Belgian Tervuren 3	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 4	BelgianTervuren05	Belgian Tervuren	PRJNA448733	SAMN08872852	F	19.683599999999998	19.8996	0.98914551046252186	Belgian Tervuren 4	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 5	BelgianTervuren06	Belgian Tervuren	PRJNA448733	SAMN08872853	M	16.7271	9.4582300000000004	1.7685232860693807	Belgian Tervuren 5	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 6	BelgianTervuren07	Belgian Tervuren	PRJNA448733	SAMN08872854	F	15.6921	16.052299999999999	0.97756084797817144	Belgian Tervuren 6	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 7	BelgianTervuren08	Belgian Tervuren	PRJNA448733	SAMN08872855	M	16.033000000000001	9.0322099999999992	1.7750915888802412	Belgian Tervuren 7	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 8	BelgianTervuren09	Belgian Tervuren	PRJNA448733	SAMN08872856	M	15.959899999999999	8.9986200000000007	1.773594173328799	Belgian Tervuren 8	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 9	BelgianTervuren10	Belgian Tervuren	PRJNA448733	SAMN08872857	F	16.962	17.294599999999999	0.98076856359788611	Belgian Tervuren 9	Belgian Sheepdog/Tervuren	100		yes		
+Belgian Tervuren 10	BelgianTervuren11	Belgian Tervuren	PRJNA448733	SAMN08872858	F	48.200400000000002	49.1584	0.98051197760708242	Belgian Tervuren 10	Belgian Sheepdog/Tervuren	100		yes	yes	
+Belgian Tervuren 11	BelgianTervuren04	Belgian Tervuren - See Other_Information	PRJNA448733	SAMN08872859	M	14.9749	8.4638500000000008	1.7692775746262042	Belgian Tervuren 11	Belgian Sheepdog/Tervuren	100		yes		WGS contaminated with another individual - Determined by concordance with SNPchip data
+Berger Blanc Suisse	BergerBlancSuisse01	Berger Blanc Suisse	PRJEB16012	SAMEA4506887	M	16.586300000000001	9.2821899999999999	1.7868951185011297	Berger Blanc Suisse	outside German Shepherd Dog clade	100	Breed not available for comparison		
+Berger Picard 1	CFA.109670	Berger Picard	PRJNA263947	SAMN06159678	M	57.454799999999999	31.856999999999999	1.8035219888878427	Berger Picard 1	Berger Picard	100				
+Berger Picard 2	BergerPicard01	Berger Picard	PRJNA263947	SAMN03580405	F	25.2395	25.4755	0.99073619752311037	Berger Picard 2	Berger Picard	100				
+Berger Picard 3	BergerPicard02	Berger Picard	PRJNA263947	SAMN04196849	F	25.632000000000001	25.668099999999999	0.9985935850335631	Berger Picard 3	Berger Picard	100				
+Berger Picard 4	BergerPicard03	Berger Picard	PRJNA263947	SAMN04196860	F	33.081299999999999	33.440100000000001	0.98927036701445259	Berger Picard 4	Berger Picard	100				
+Bernese Mountain Dog 1	BerneseMountainDog01	Bernese Mountain Dog	PRJNA288568	SAMN03801648	F	44.421199999999999	45.019100000000002	0.98671897039256662	Bernese Mountain Dog 1	Bernese Mountain Dog	100		yes	yes
+Bernese Mountain Dog 2	BerneseMountainDog02	Bernese Mountain Dog	PRJNA448733	SAMN08872866	F	49.090200000000003	50.4161	0.97370086143116985	Bernese Mountain Dog 2	Bernese Mountain Dog	100			
+Bernese Mountain Dog 3	BerneseMountainDog03	Bernese Mountain Dog	PRJNA448733	SAMN08872867	M	9.4504400000000004	5.2515099999999997	1.7995662200014855	Bernese Mountain Dog 3	Bernese Mountain Dog	100				
+Bernese Mountain Dog 4	BerneseMountainDog04	Bernese Mountain Dog	PRJNA448733	SAMN08872868	M	10.334300000000001	5.8415100000000004	1.7691144926568645	Bernese Mountain Dog 4	Bernese Mountain Dog	100				
+Bernese Mountain Dog 5	BerneseMountainDog05	Bernese Mountain Dog	PRJNA448733	SAMN08872869	F	9.35487	9.5599600000000002	0.9785469813681229	Bernese Mountain Dog 5	Bernese Mountain Dog	100				
+Bernese Mountain Dog 6	BerneseMountainDog06	Bernese Mountain Dog	PRJNA448733	SAMN08872870	F	7.6570200000000002	7.7282799999999998	0.99077931958986998	Bernese Mountain Dog 6	Bernese Mountain Dog	100				
+Bernese Mountain Dog 7	BerneseMountainDog07	Bernese Mountain Dog	PRJNA448733	SAMN08872871	F	8.6857500000000005	8.8976900000000008	0.97618033444635632	Bernese Mountain Dog 7	Bernese Mountain Dog	100				
+Bernese Mountain Dog 8	BerneseMountainDog08	Bernese Mountain Dog	PRJNA448733	SAMN08872872	F	8.6702100000000009	8.3931799999999992	1.0330065600880718	Bernese Mountain Dog 8	Bernese Mountain Dog	100				
+Bernese Mountain Dog 9	BerneseMountainDog09	Bernese Mountain Dog	PRJNA448733	SAMN08872873	M	9.6064100000000003	5.4453800000000001	1.7641395090884382	Bernese Mountain Dog 9	Bernese Mountain Dog	100				
+Bernese Mountain Dog 10	BerneseMountainDog10	Bernese Mountain Dog	PRJNA448733	SAMN08872874	F	8.5669699999999995	8.8831199999999999	0.96441002710759283	Bernese Mountain Dog 10	Bernese Mountain Dog	100		yes		
+Bernese Mountain Dog 11	BerneseMountainDog11	Bernese Mountain Dog	PRJNA448733	SAMN08872875	M	11.3299	6.3188399999999998	1.7930347975261283	Bernese Mountain Dog 11	Bernese Mountain Dog	100				
+Bernese Mountain Dog 12	BerneseMountainDog12	Bernese Mountain Dog	PRJNA448733	SAMN08872876	F	10.7539	10.965	0.9807478340173279	Bernese Mountain Dog 12	Bernese Mountain Dog	100				
+Bernese Mountain Dog 13	BerneseMountainDog13	Bernese Mountain Dog	PRJNA448733	SAMN08872877	F	8.6153700000000004	8.8184699999999996	0.97696879390642599	Bernese Mountain Dog 13	Bernese Mountain Dog	100				
+Bernese Mountain Dog 14	BerneseMountainDog14	Bernese Mountain Dog	PRJNA448733	SAMN08872878	F	11.1957	11.551	0.96924075837589818	Bernese Mountain Dog 14	Bernese Mountain Dog	100				
+Bernese Mountain Dog 15	BerneseMountainDog15	Bernese Mountain Dog	PRJNA448733	SAMN08872879	M	8.6808999999999994	5.0850799999999996	1.7071314512259395	Bernese Mountain Dog 15	Bernese Mountain Dog	100				
+Bernese Mountain Dog 16	BerneseMountainDog16	Bernese Mountain Dog	PRJNA448733	SAMN08872880	F	10.0181	10.1952	0.98262908035153806	Bernese Mountain Dog 16	Bernese Mountain Dog	100				
+Bernese Mountain Dog 17	BerneseMountainDog17	Bernese Mountain Dog	PRJNA448733	SAMN08872881	F	7.9825699999999999	8.1141100000000002	0.98378873345320683	Bernese Mountain Dog 17	Bernese Mountain Dog	100				
+Bernese Mountain Dog 18	BerneseMountainDog18	Bernese Mountain Dog	PRJNA448733	SAMN08872882	F	13.623200000000001	13.5572	1.0048682618829847	Bernese Mountain Dog 18	Bernese Mountain Dog	100				
+Black and Tan Coonhound	Coonhound01	Black and Tan Coonhound	PRJNA263947	SAMN04196853	F	27.3033	27.5502	0.99103817758128798	Black and Tan Coonhound	with a Redbone Coonhound	73	Breed not available for comparison			
+Black Russian Terrier	BlackRussianTerrier01	Black Russian Terrier	PRJNA263947	SAMN03323668	F	37.383400000000002	37.579000000000001	0.99479496527315792	Black Russian Terrier	Black Russian Terrier	100			
+Bloodhound	Bloodhound01	Bloodhound	PRJNA288568	SAMN03801649	F	39.006799999999998	39.7652	0.9809280476396447	Bloodhound	Bloodhound	100		yes	yes
+Border Collie 1	BorderCollie06	Border Collie	PRJEB16012	SAMEA4505490	F	4.5190299999999999	4.5970899999999997	0.98301969289267777	Border Collie 1	Border Collie	100				One of six BAM file that needed to be remade after making 722g VCF - Slight diffences in genotypes in 722g VCF compared to a joint call of the 6g for a subset of Illumina SNPchip SNPs (48 differences out of 63664 tested for 0.08% discordance)
+Border Collie 2	BC0480	Border Collie	PRJEB16012	SAMEA104091558	F	31.028400000000001	30.277100000000001	1.0248141334539966	Border Collie 2	Border Collie	100				
+Border Collie 3	Helsinki_BC1028	Border Collie	PRJNA319610	SAMN04908310	M	27.262499999999999	15.3049	1.7812922658756345	Border Collie 3	Border Collie	100				
+Border Collie 4	Helsinki_BC1029	Border Collie	PRJNA319610	SAMN04908311	F	25.8034	25.982800000000001	0.99309543236294773	Border Collie 4	Border Collie	100				
+Border Collie 5	Helsinki_BC222	Border Collie	PRJNA319610	SAMN04908307	M	26.147500000000001	14.544600000000001	1.7977462425917523	Border Collie 5	Border Collie	100				
+Border Collie 6	Helsinki_BC387	Border Collie	PRJNA319610	SAMN04908308	M	24.728100000000001	13.7895	1.7932557380615686	Border Collie 6	Border Collie	100				
+Border Collie 7	BC485	Border Collie	PRJEB16012	SAMEA104125112	M	25.9237	14.454700000000001	1.7934443468214489	Border Collie 7	Border Collie	100				
+Border Collie 8	BC518	Border Collie	PRJEB16012	SAMEA104125113	F	26.7622	27.072500000000002	0.98853818450457098	Border Collie 8	Border Collie	100				
+Border Collie 9	Helsinki_BC578	Border Collie	PRJNA319610	SAMN04908309	M	27.035	15.145099999999999	1.7850657968583898	Border Collie 9	Border Collie	100				
+Border Collie 10	BC597	Border Collie	PRJEB16012	SAMEA104125115	M	23.390499999999999	13.0725	1.7892904953145916	Border Collie 10	Border Collie	100				
+Border Collie 11	BorderCollie01	Border Collie	PRJNA188158	SAMN01908107	F	10.736800000000001	10.588900000000001	1.0139674564874539	Border Collie 11	Border Collie	100			
+Border Collie 12	BorderCollie02	Border Collie	PRJNA288568	SAMN03801650	M	18.913799999999998	10.7616	1.7575267618198036	Border Collie 12	Border Collie	100				
+Border Collie 13	BorderCollie03	Border Collie	PRJNA288568	SAMN03801651	M	28.662600000000001	16.188500000000001	1.770553170460512	Border Collie 13	Border Collie	100				
+Border Collie 14	BorderCollie07	Border Collie	PRJEB16012	SAMEA4504821	F	21.471599999999999	22.017800000000001	0.97519279855389718	Border Collie 14	Border Collie	100			
+Border Collie 15	BorderCollie08	Border Collie	PRJEB12337	SAMEA3724571	F	30.3248	30.475100000000001	0.99506810478062413	Border Collie 15	Border Collie	100			
+Border Terrier 1	CFA.107838	Border Terrier	PRJNA263947	SAMN06159673	M	43.273200000000003	23.952200000000001	1.8066482410801514	Border Terrier 1	Border Terrier	100				
+Border Terrier 2	BorderTerrier01	Border Terrier	PRJNA263947	SAMN03580407	F	23.9053	24.192900000000002	0.98811221474068833	Border Terrier 2	Border Terrier	100				
+Border Terrier 3	BorderTerrier02	Border Terrier	PRJNA263947	SAMN04196855	F	33.034399999999998	33.451799999999999	0.98752234558379515	Border Terrier 3	Border Terrier	100				
+Border Terrier 4	BorderTerrier03	Border Terrier	PRJNA263947	SAMN04196856	M	30.487200000000001	17.4115	1.7509806736926745	Border Terrier 4	Border Terrier	100				
+Borzoi	Borzoi01	Borzoi	PRJNA448733	SAMN08872905	F	50.850499999999997	51.776600000000002	0.98211354163850073	Borzoi	Borzoi	100		yes	yes	
+Boston Terrier	BostonTerrier01	Boston Terrier	PRJNA448733	SAMN08872906	F	54.2211	55.264499999999998	0.98111988708845643	Boston Terrier	Boston Terrier	100		yes	yes	
+Bouvier des Flandres 1	BouvierDesFlandres01	Bouvier des Flandres	PRJNA448733	SAMN08872908	F	63.340400000000002	64.586799999999997	0.98070193909591441	Bouvier des Flandres 1	Bouvier des Flandres	100				
+Bouvier des Flandres 2	CFA.107836	Bouvier des Flandres	PRJNA263947	SAMN06159671	M	40.953600000000002	22.6082	1.8114489433037571	Bouvier des Flandres 2	Bouvier des Flandres	100				
+Bouvier des Flandres 3	BouvierDesFlandres02	Bouvier des Flandres	PRJNA448733	SAMN08872909	M	21.881699999999999	12.276199999999999	1.7824489662925009	Bouvier des Flandres 3	Bouvier des Flandres	100				
+Boxer	Boxer01	Boxer	PRJNA255370	SAMN02921305	F	29.9085	30.596800000000002	0.97750418344402024	Boxer	Boxer	100				
+Brittany	BrittanySpaniel01	Brittany	PRJNA288568	SAMN03801653	M	10.1812	5.82125	1.7489714408417436	Brittany	Brittany	100				
+Bull Terrier 1	BT1021	Bull Terrier	PRJEB16012	SAMEA104125116	F	23.161799999999999	23.524899999999999	0.98456529039443319	Bull Terrier 1	Bull Terrier/Mini Bull Terrier	100				
+Bull Terrier 2	BullTerrier01	Bull Terrier	PRJNA448733	SAMN08872913	F	38.0364	38.6128	0.98507230762855846	Bull Terrier 2	Bull Terrier/Mini Bull Terrier	100				
+Bull Terrier 3	BullTerrier02	Bull Terrier	PRJNA448733	SAMN08872914	M	41.700299999999999	23.2819	1.7911038188463999	Bull Terrier 3	Bull Terrier/Mini Bull Terrier	100				
+Bull Terrier 4	BullTerrier03	Bull Terrier	PRJNA448733	SAMN08872915	M	49.699800000000003	27.809699999999999	1.7871390198384018	Bull Terrier 4	Bull Terrier/Mini Bull Terrier	100		yes	yes
+Bull Terrier 5	BullTerrier04	Bull Terrier	PRJNA448733	SAMN08872916	M	48.3324	26.952000000000002	1.7932769367764914	Bull Terrier 5	Bull Terrier/Mini Bull Terrier	100		yes	yes
+Bull Terrier 6	BullTerrier05	Bull Terrier	PRJNA448733	SAMN08872917	M	61.807299999999998	34.672899999999998	1.7825823625944182	Bull Terrier 6	Bull Terrier/Mini Bull Terrier	100		yes	yes
+Bull Terrier 7	BullTerrier06	Bull Terrier	PRJNA448733	SAMN08872918	F	93.826499999999996	95.935199999999995	0.97801953818827714	Bull Terrier 7	Bull Terrier/Mini Bull Terrier	100			
+Bull Terrier 8	BullTerrier07	Bull Terrier	PRJNA448733	SAMN08872919	M	7.4386099999999997	4.2886600000000001	1.7344834983421393	Bull Terrier 8	Bull Terrier/Mini Bull Terrier	100			
+Bull Terrier 9	BullTerrier08	Bull Terrier	PRJNA448733	SAMN08872920	M	8.1581700000000001	4.6843199999999996	1.7415910953991189	Bull Terrier 9	Bull Terrier/Mini Bull Terrier	100			
+Bull Terrier Miniature 	BT007	Miniature Bull Terrier 	PRJEB16012	SAMEA4506897	M	38.451700000000002	21.250299999999999	1.8094662193004336	Bull Terrier Miniature 	Bull Terrier/Mini Bull Terrier	100				
+Bulldog	Bulldog01	Bulldog	PRJNA288568	SAMN03801654	F	52.382100000000001	52.286799999999999	1.0018226397484642	Bulldog	Bulldog	100		yes	yes	
+Bullmastiff	BU002	Bullmastiff	PRJEB16012	SAMEA103949042	M	13.8461	7.7363400000000002	1.7897481237898023	Bullmastiff	Bullmastiff	100				
+Cairn Terrier	CE073	Cairn Terrier	PRJEB16012	SAMEA104091555	F	28.277200000000001	28.804300000000001	0.98170064886145469	Cairn Terrier	Cairn Terrier	100				
+Cane Corso	CaneCorso01	Cane Corso	PRJNA263947	SAMN04196864	F	29.765699999999999	30.258199999999999	0.98372342042818151	Cane Corso	Cane Corso	75				
+Carolina Dog	CarolinaDog01	Carolina Dog	PRJNA448733	SAMN08872926	F	41.782899999999998	42.628300000000003	0.98016810428752721	Carolina Dog	with other Carolina Dogs outside the Asian Toys clade	54	Breed not available for comparison			
+Caucasian Ovcharka	CaucasianOvcharka01	Caucasian Ovcharka	PRJNA232497	SAMN02485585	F	10.3331	10.635199999999999	0.97159432826839176	Caucasian Ovcharka	Caucasian Ovcharka	100				
+Cavalier King Charles Spaniel 1	CK006	Cavalier King Charles Spaniel	PRJEB16012	SAMEA104091570	F	29.310500000000001	29.529299999999999	0.99259041020274785	Cavalier King Charles Spaniel 1	Cavalier King Charles Spaniel	100				
+Cavalier King Charles Spaniel 2	CK023	Cavalier King Charles Spaniel	PRJEB16012	SAMEA104091569	F	31.140499999999999	31.445499999999999	0.99030067895247331	Cavalier King Charles Spaniel 2	Cavalier King Charles Spaniel	100				
+Chesapeake Bay Retriever	CFA.109671	Chesapeake Bay Retriever	PRJNA263947	SAMN06159679	M	38.635199999999998	21.287700000000001	1.8149071999323552	Chesapeake Bay Retriever	Chesapeake Bay Retriever	100				
+Chihuahua 1	Chihuahua01	Chihuahua	PRJNA288568	SAMN03801656	F	53.891599999999997	54.573500000000003	0.98750492455129313	Chihuahua 1	Chihuahua	100		yes	yes	
+Chihuahua 2	Chihuahua03	Chihuahua	PRJNA266585	SAMN03168379	M	18.412800000000001	10.3508	1.7788769950148782	Chihuahua 2	Chihuahua	100				
+Chihuahua 3	Chihuahua05	Chihuahua	PRJEB13139	SAMEA3905753	M	32.036099999999998	17.160599999999999	1.866840320268522	Chihuahua 3	Chihuahua	100				
+Chinese Crested 1	ChineseCrested01	Chinese Crested	PRJNA261736	SAMN03075611	M	35.347200000000001	19.735299999999999	1.7910647418584973	Chinese Crested 1	Chinese Crested	100			
+Chinese Crested 2	ChineseCrested05	Chinese Crested	PRJNA255370	SAMN02921308	M	21.905100000000001	12.259	1.7868586344726323	Chinese Crested 2	Chinese Crested	100				
+Chinese Indigenous Dog 1	ChineseIndigenousDog01	Chinese Indigenous Dog	PRJNA266585	SAMN03168352	F	17.685199999999998	17.010200000000001	1.0396820731090755	Chinese Indigenous Dog 1						
+Chinese Indigenous Dog 2	ChineseIndigenousDog02	Chinese Indigenous Dog	PRJNA266585	SAMN03168353	M	20.919899999999998	13.202400000000001	1.5845528085802578	Chinese Indigenous Dog 2						
+Chinese Indigenous Dog 3	ChineseIndigenousDog03	Chinese Indigenous Dog	PRJNA266585	SAMN03168354	F	18.755099999999999	18.6859	1.003703327107605	Chinese Indigenous Dog 3						
+Chinese Indigenous Dog 4	ChineseIndigenousDog04	Chinese Indigenous Dog	PRJNA266585	SAMN03168355	F	19.231400000000001	21.2	0.90714150943396232	Chinese Indigenous Dog 4						
+Chinese Indigenous Dog 5	ChineseIndigenousDog05	Chinese Indigenous Dog	PRJNA266585	SAMN03168363	M	19.6799	12.023	1.6368543624719289	Chinese Indigenous Dog 5						
+Chinese Indigenous Dog 6	ChineseIndigenousDog06	Chinese Indigenous Dog	PRJNA266585	SAMN03168364	M	16.861699999999999	10.589499999999999	1.592303697058407	Chinese Indigenous Dog 6						
+Chinese Indigenous Dog 7	ChineseIndigenousDog07	Chinese Indigenous Dog	PRJNA266585	SAMN03168356	F	19.0626	19.1296	0.99649757443961196	Chinese Indigenous Dog 7						
+Chinese Indigenous Dog 8	ChineseIndigenousDog08	Chinese Indigenous Dog	PRJNA266585	SAMN03168358	M	17.140499999999999	9.7190999999999992	1.7635892212241875	Chinese Indigenous Dog 8						
+Chinese Indigenous Dog 9	ChineseIndigenousDog09	Chinese Indigenous Dog	PRJNA266585	SAMN03168359	M	19.264600000000002	11.929399999999999	1.6148842355860313	Chinese Indigenous Dog 9						
+Chinese Indigenous Dog 10	ChineseIndigenousDog10	Chinese Indigenous Dog	PRJNA266585	SAMN03168360	F	12.799099999999999	11.954599999999999	1.0706422632292172	Chinese Indigenous Dog 10						
+Chinese Indigenous Dog 11	ChineseIndigenousDog11	Chinese Indigenous Dog	PRJNA266585	SAMN03168361	F	17.486999999999998	16.767800000000001	1.0428917329643721	Chinese Indigenous Dog 11						
+Chinese Indigenous Dog 12	ChineseIndigenousDog12	Chinese Indigenous Dog	PRJNA266585	SAMN03168365	M	16.4313	9.1814300000000006	1.7896231850594078	Chinese Indigenous Dog 12						
+Chinese Indigenous Dog 13	ChineseIndigenousDog13	Chinese Indigenous Dog	PRJNA266585	SAMN03168366	F	18.1389	17.414400000000001	1.0416035005512678	Chinese Indigenous Dog 13						
+Chinese Indigenous Dog 14	ChineseIndigenousDog14	Chinese Indigenous Dog	PRJNA266585	SAMN03168367	M	10.2317	6.1057100000000002	1.6757592483101882	Chinese Indigenous Dog 14						
+Chinese Indigenous Dog 15	ChineseIndigenousDog15	Chinese Indigenous Dog	PRJNA266585	SAMN03168357	M	18.273800000000001	11.4518	1.5957142108664142	Chinese Indigenous Dog 15						
+Chinese Shar-Pei 1	NGSDOG024	Chinese Shar-Pei	PRJNA327712	SAMN05356426	M	10.613300000000001	6.4154299999999997	1.6543396155830554	Chinese Shar-Pei 1	Chinese Shar-Pei	100				
+Chinese Shar-Pei 2	NGSDOG025	Chinese Shar-Pei	PRJNA327712	SAMN05356427	M	10.7233	6.3843899999999998	1.679612304386167	Chinese Shar-Pei 2	Chinese Shar-Pei	100				
+Chinook	Chinook01	Chinook	PRJNA263947	SAMN03580382	F	16.978899999999999	17.8536	0.95100707980463317	Chinook	Chinook	100				
+Chongqing Dog	ChongqingDog01	Chongqing Dog	PRJNA232497	SAMN02485578	M	7.4403699999999997	4.3065199999999999	1.7276989309233441	Chongqing Dog	outside Chow Chow clade	100	Breed not available for comparison			
+Chow Chow 1	ChowChow01	Chow Chow	PRJNA288568	SAMN03801657	F	6.0429500000000003	6.1618199999999996	0.98070862180329843	Chow Chow 1	Chow Chow	100		yes		
+Chow Chow 2	ChowChow02	Chow Chow	PRJNA288568	SAMN03801658	F	64.836100000000002	65.040400000000005	0.99685887540667029	Chow Chow 2	Chow Chow	100		yes	yes	
+Chow Chow 3	ChowChow03	Chow Chow	PRJNA232497	SAMN02485574	M	7.3007	4.2312200000000004	1.7254361626197643	Chow Chow 3	Chow Chow	100				
+Chow Chow 4	CW011	Chow Chow	PRJEB16012	SAMEA104091566	F	19.677600000000002	19.777200000000001	0.99496389782173422	Chow Chow 4	Chow Chow	100				
+Clumber Spaniel	ClumberSpaniel01	Clumber Spaniel	PRJNA288568	SAMN03801659	M	18.314900000000002	10.357900000000001	1.7682059104644765	Clumber Spaniel	Clumber Spaniel	100				
+American Cocker Spaniel 1	CockerSpanielAmerican01	Cocker Spaniel (American)	PRJNA288568	SAMN03801660	F	41.917400000000001	42.700699999999998	0.98165603842559968	American Cocker Spaniel 1	Cocker Spaniel (American)	100		yes	yes	
+American Cocker Spaniel 2	CockerSpanielAmerican02	Cocker Spaniel (American)	SRP108905	SRR5664960 	M	18.904800000000002	10.724399999999999	1.7627839319682224	American Cocker Spaniel 2	Cocker Spaniel (American)	100				
+American Cocker Spaniel 3	CockerSpanielAmerican03	Cocker Spaniel (American)	SRP108905	SRR5664961	M	38.319499999999998	18.474	2.0742394716899426	American Cocker Spaniel 3	Cocker Spaniel (American)	100				
+American Cocker Spaniel 4	CockerSpanielAmerican04	Cocker Spaniel (American)	SRP108905	SRR5664958	F	48.0214	48.107199999999999	0.99821648318754785	American Cocker Spaniel 4	Cocker Spaniel (American)	100				
+American Cocker Spaniel 5	CockerSpanielAmerican05	Cocker Spaniel (American)	SRP108905	SRR5664959	F	35.7986	35.827100000000002	0.99920451278501465	American Cocker Spaniel 5	Cocker Spaniel (American)	100				
+American Cocker Spaniel 6	CockerSpanielAmerican06	Cocker Spaniel (American)	SRP108905	SRR5664964	M	49.810299999999998	27.6157	1.80369499958357	American Cocker Spaniel 6	Cocker Spaniel (American)	100				
+Coyote 1	Coyote01	Coyote	PRJNA255370	SAMN02921301	M	26.251100000000001	14.648099999999999	1.7921163836948137							Coyote (California)
+Coyote 2	Coyote02	Coyote	PRJNA255370	SAMN02921302	M	6.7710499999999998	4.1516400000000004	1.6309337996550759							Coyote (Alabama)
+Coyote 3	Coyote03	Coyote	PRJNA255370	SAMN02921303	M	7.9919200000000004	4.4883300000000004	1.7805999113255933							Coyote (Midwest)
+Curly Coated Retreiver	CR039	Curly-Coated Retriever	PRJEB16012	SAMEA104091556	F	22.325900000000001	22.760200000000001	0.98091844535636763	Curly Coated Retreiver	Curly-Coated Retriever	100				
+Dachshund 1	CFA.107835	Dachshund	PRJNA263947	SAMN06159670	M	44.898000000000003	24.755800000000001	1.8136355924672198	Dachshund 1	Dachshund	100				
+Dachshund 2	CFA.109668	Dachshund	PRJNA263947	SAMN06159676	M	36.173000000000002	20.0182	1.807005624881358	Dachshund 2	Dachshund	100				
+Dachshund 3	Dachshund01	Dachshund	PRJEB7736	SAMEA3121338	M	17.277799999999999	9.8085100000000001	1.7615111775386882	Dachshund 3	Dachshund	100				
+Dachshund 4	DH0117	Dachshund	PRJEB16012	SAMEA104091567	M	25.613700000000001	14.2119	1.8022713359930764	Dachshund 4	Dachshund	100				
+Dachshund 5	DH126	Dachshund	PRJEB16012	SAMEA104125117	F	18.890499999999999	19.005099999999999	0.99397003962094388	Dachshund 5	Dachshund	100				
+Dalmatian 1	DAL162K1	Dalmatian	PRJNA360671	SAMN06214558	M	15.5739	8.56508	1.8183017555002405	Dalmatian 1	Dalmatian	100				
+Dalmatian 2	Dalmatian01	Dalmatian	PRJNA448733	SAMN08872976	F	34.520400000000002	34.488700000000001	1.0009191416318968	Dalmatian 2	Dalmatian	100				
+Dhole	Dhole01	Dhole	PRJNA266585	SAMN03168405	F	39.646299999999997	37.520000000000003	1.056671108742004							Dhole (Cuon alpinus)
+Dingo	Dingo01	Dingo	PRJNA274504	SAMN03366709	M	6.8221100000000003	3.9884499999999998	1.7104664719377203							
+Doberman Pinscher 1	DO242	Doberman Pinscher	PRJEB16012	SAMEA4505489	F	40.379300000000001	41.048499999999997	0.98369733364191148	Doberman Pinscher 1	Doberman Pinscher	100				
+Doberman Pinscher 2	Doberman01	Doberman Pinscher	PRJNA288568	SAMN03801662	F	32.293100000000003	32.906300000000002	0.9813652704801209	Doberman Pinscher 2	Doberman Pinscher	100				
+Doberman Pinscher 3	Doberman02	Doberman Pinscher	PRJNA263947	SAMN03580409	M	27.078299999999999	15.655099999999999	1.7296791460929666	Doberman Pinscher 3	Doberman Pinscher	100			
+Doberman Pinscher 4	Doberman03	Doberman Pinscher	PRJEB16012	SAMEA4509491	F	7.5470199999999998	7.5995100000000004	0.99309297573132993	Doberman Pinscher 4	Doberman Pinscher	100			
+Doberman Pinscher 5	Doberman04	Doberman Pinscher	PRJEB16012	SAMEA4509492	M	8.5670199999999994	4.8979999999999997	1.7490853409554921	Doberman Pinscher 5	Doberman Pinscher	100			
+East Siberian Laika	EastSiberianLaika01	East Siberian Laika	PRJNA266585	SAMN03168390	F	17.510300000000001	17.7636	0.98574050305118333	East Siberian Laika	with Carolina Dogs outside the Asian Toys clade	54	Breed not available for comparison			
+Elo	Elo01	Elo	PRJEB16012	SAMEA4506890	M	18.111599999999999	9.9094599999999993	1.827708068855417	Elo	outside Eurasier clade	99	Breed not available for comparison		
+English Cocker Spaniel 1	CP003	English Cocker Spaniel	PRJEB16012	SAMEA4506900	M	27.5029	15.4293	1.7825111962305484	English Cocker Spaniel 1	English Cocker Spaniel	100				
+English Cocker Spaniel 2	CockerSpanielEnglish01	English Cocker Spaniel	PRJEB2162	SAMEA1521941	M	23.3002	13.0228	1.7891851214792518	English Cocker Spaniel 2	English Cocker Spaniel	100			
+English Cocker Spaniel 3	CockerSpanielEnglish02	English Cocker Spaniel	PRJNA263947	SAMN03323672	M	8.0783799999999992	4.9745200000000001	1.6239516576473709	English Cocker Spaniel 3	English Cocker Spaniel	100			
+English Cocker Spaniel 4	CockerSpanielEnglish03	English Cocker Spaniel	PRJNA263947	SAMN03323673	F	14.319599999999999	14.3947	0.9947828020035151	English Cocker Spaniel 4	English Cocker Spaniel	100			
+English Cocker Spaniel 5	CockerSpanielEnglish04	English Cocker Spaniel	PRJNA255370	SAMN02921306	M	10.9031	6.4487800000000002	1.6907228964238197	English Cocker Spaniel 5	English Cocker Spaniel	100				
+English Cocker Spaniel 6	CockerSpanielEnglish05	English Cocker Spaniel	SRP108905	SRR5664965	F	36.04	35.578899999999997	1.0129599284969464	English Cocker Spaniel 6	English Cocker Spaniel	100				
+English Setter 1	CFA.105990	English Setter	PRJNA263947	SAMN06159667	F	27.962199999999999	27.988299999999999	0.99906746747748165	English Setter 1	English Setter	100				
+English Setter 2	CFA.117996	English Setter	PRJNA263947	SAMN06159682	M	39.400100000000002	21.8432	1.8037695941986522	English Setter 2	English Setter	100				
+English Setter 3	EnglishSetter01	English Setter	PRJNA263947	SAMN04196858	M	25.642099999999999	14.3635	1.7852264420231836	English Setter 3	English Setter	100				
+English Springer Spaniel 1	EnglishSpringerSpaniel01	English Springer Spaniel	PRJNA263947	SAMN03580391	M	31.365100000000002	17.9941	1.7430768974274902	English Springer Spaniel 1	English Springer Spaniel	100				
+English Springer Spaniel 2	EnglishSpringerSpaniel03	English Springer Spaniel	PRJNA263947	SAMN04196857	M	31.349499999999999	17.7881	1.7623860895767394	English Springer Spaniel 2	English Springer Spaniel	100				
+Entlebucher Sennenhund 1	EntlebucherSennenhund01	Entlebucher Sennenhund	PRJEB16012	SAMEA4504828	M	13.7681	7.7094899999999997	1.7858639157713416	Entlebucher Sennenhund 1	Entlebucher Sennenhund	100	Breed not available for comparison		
+Entlebucher Sennenhund 2	EntlebucherSennenhund02	Entlebucher Sennenhund	PRJEB16012	SAMEA4505497	M	13.1998	7.2265699999999997	1.8265650232406245	Entlebucher Sennenhund 2	Entlebucher Sennenhund	100	Breed not available for comparison		
+Entlebucher Sennenhund 3	EntlebucherSennenhund03	Entlebucher Sennenhund	PRJEB16012	SAMEA4504829	M	12.3218	6.7419200000000004	1.8276396041483731	Entlebucher Sennenhund 3	Entlebucher Sennenhund	100	Breed not available for comparison		
+Entlebucher Sennenhund 4	EntlebucherSennenhund04	Entlebucher Sennenhund	PRJEB16012	SAMEA4505498	M	11.936299999999999	6.6089700000000002	1.8060756819897803	Entlebucher Sennenhund 4	Entlebucher Sennenhund	100	Breed not available for comparison		
+Entlebucher Sennenhund 5	EntlebucherSennenhund05	Entlebucher Sennenhund	PRJEB16012	SAMEA4504830	M	11.9071	6.6516400000000004	1.7900998851411078	Entlebucher Sennenhund 5	Entlebucher Sennenhund	100	Breed not available for comparison		
+Entlebucher Sennenhund 6	EntlebucherSennenhund06	Entlebucher Sennenhund	PRJEB16012	SAMEA4505499	M	13.869300000000001	7.7977100000000004	1.7786375743647815	Entlebucher Sennenhund 6	Entlebucher Sennenhund	100	Breed not available for comparison		
+Entlebucher Sennenhund 7	EntlebucherSennenhund07	Entlebucher Sennenhund	PRJEB16012	SAMEA4505500	M	13.0596	7.37277	1.771328822138762	Entlebucher Sennenhund 7	Entlebucher Sennenhund	100	Breed not available for comparison		
+Entlebucher Sennenhund 8	EntlebucherSennenhund08	Entlebucher Sennenhund	PRJEB16012	SAMEA4505501	M	17.076599999999999	9.4189900000000009	1.8129969349155268	Entlebucher Sennenhund 8	Entlebucher Sennenhund	100	Breed not available for comparison		
+Eurasier 1	Eurasier01	Eurasier	PRJEB6079	SAMEA2446720	F	12.1854	12.270899999999999	0.99303229591961473	Eurasier 1	Eurasier	100			
+Eurasier 2	Eurasier02	Eurasier	PRJEB16012	SAMEA4506889	M	16.185500000000001	9.0821699999999996	1.7821181501777661	Eurasier 2	Eurasier	100			
+Field Spaniel	CFA.107833	Field Spaniel	PRJNA263947	SAMN06159668	M	42.165500000000002	23.225300000000001	1.8154986157337043	Field Spaniel	Field Spaniel	100				
+Finnish Lapphund	FinnishLapphund01	Finnish Lapphund	PRJNA266585	SAMN03168391	M	18.554500000000001	10.627000000000001	1.7459772278159404	Finnish Lapphund	outside Finnish Spitz clade	78	Breed not available for comparison			
+Flatcoated Retriever 1	FlatcoatedRetriever01	Flat-Coated Retriever	PRJNA288568	SAMN03801666	F	68.871600000000001	70.322500000000005	0.97936791211916518	Flatcoated Retriever 1	Flat-Coated Retriever	100		yes	yes	
+Flatcoated Retriever 2	FlatcoatedRetriever02	Flat-Coated Retriever	PRJNA288568	SAMN03801667	F	44.078299999999999	44.670999999999999	0.98673188422018754	Flatcoated Retriever 2	Flat-Coated Retriever	100		yes	yes	
+Flatcoated Retriever 3	FlatcoatedRetriever03	Flat-Coated Retriever	PRJNA448733	SAMN08873011	F	42.423200000000001	43.365499999999997	0.97827074517761825	Flatcoated Retriever 3	Flat-Coated Retriever	100		yes	yes
+Fonni Dog	FonniDog01	Fonni's Dog	PRJNA448733	SAMN08873012	F	42.448	43.102699999999999	0.98481069631368801	Fonni Dog	Fonni's Dog	51		yes	yes	
+French Bulldog 1	FB065	French Bulldog	PRJEB16012	SAMEA4504835	M	14.444800000000001	8.1999999999999993	1.7615609756097563	French Bulldog 1	French Bulldog	100				
+French Bulldog 2	FrenchBulldog01	French Bulldog	PRJEB13468	SAMEA3928146	M	19.7029	11.0097	1.7895946301897416	French Bulldog 2	French Bulldog	100				
+German Hunting Terrier	JT007	German Hunting Terrier	PRJEB16012	SAMEA104125120	M	37.516500000000001	20.968900000000001	1.7891496454272755	German Hunting Terrier	outside Lakeland Terrier, Smooth Fox Terrier and Wire Fox Terrier clade	100	Breed not available for comparison			
+German Shepherd Dog 1	DS043	German Shepherd Dog	PRJEB16012	SAMEA4506895	F	29.767299999999999	29.755600000000001	1.0003932032961862	German Shepherd Dog 1	German Shepherd Dog	100				Dam (DS051) and Sire (DS053) are sequenced
+German Shepherd Dog 2	DS051	German Shepherd Dog	PRJEB16012	SAMEA72802168	F	21.300899999999999	21.693899999999999	0.98188430849224895	German Shepherd Dog 2	German Shepherd Dog	100				Dam of DS043
+German Shepherd Dog 3	DS053	German Shepherd Dog	PRJEB16012	SAMEA72802918	M	20.858799999999999	11.6934	1.7838096704123692	German Shepherd Dog 3	German Shepherd Dog	100				Sire of DS043
+German Shepherd Dog 4	GermanShepherd01	German Shepherd Dog	PRJNA192935	SAMN01974494	F	9.9969900000000003	9.9139599999999994	1.0083750590077023	German Shepherd Dog 4	German Shepherd Dog	100				
+German Shepherd Dog 5	GermanShepherd02	German Shepherd Dog	PRJNA233638	SAMN02585201	F	15.9152	16.036899999999999	0.99241125155111032	German Shepherd Dog 5	German Shepherd Dog	100				
+German Shepherd Dog 6	GermanShepherd03	German Shepherd Dog	PRJNA233638	SAMN02585202	M	16.695	9.4418299999999995	1.7681953604333061	German Shepherd Dog 6	German Shepherd Dog	100				
+German Shepherd Dog 7	GermanShepherd04	German Shepherd Dog	PRJNA233638	SAMN02585203	F	16.366499999999998	16.6404	0.98354005913319387	German Shepherd Dog 7	German Shepherd Dog	100				
+German Shepherd Dog 8	GermanShepherd05	German Shepherd Dog	PRJNA233638	SAMN02585204	F	16.2179	16.508299999999998	0.98240884888207758	German Shepherd Dog 8	German Shepherd Dog	100				
+German Shepherd Dog 9	GermanShepherd06	German Shepherd Dog	PRJNA233638	SAMN02585205	F	15.4978	15.7666	0.98295130211967063	German Shepherd Dog 9	German Shepherd Dog	100				
+German Shepherd Dog 10	GermanShepherd07	German Shepherd Dog	PRJNA233638	SAMN02585206	M	16.4451	9.34145	1.7604440424131158	German Shepherd Dog 10	German Shepherd Dog	100				
+German Shepherd Dog 11	GermanShepherd08	German Shepherd Dog	PRJNA233638	SAMN02585207	M	17.0837	9.7557100000000005	1.7511488143866514	German Shepherd Dog 11	German Shepherd Dog	100				
+German Shepherd Dog 12	GermanShepherd09	German Shepherd Dog	PRJNA233638	SAMN02585208	M	15.5221	8.8134300000000003	1.7611871881889343	German Shepherd Dog 12	German Shepherd Dog	100				
+German Shepherd Dog 13	GermanShepherd10	German Shepherd Dog	PRJNA233638	SAMN02585209	M	17.131	9.7694600000000005	1.7535257834107514	German Shepherd Dog 13	German Shepherd Dog	100				
+German Shepherd Dog 14	GermanShepherd11	German Shepherd Dog	PRJNA233638	SAMN02585210	M	16.192699999999999	9.19712	1.7606272398315994	German Shepherd Dog 14	German Shepherd Dog	100				
+German Shepherd Dog 15	GermanShepherd12	German Shepherd Dog	PRJNA263947	SAMN03580392	M	29.2333	16.7362	1.7467107228642105	German Shepherd Dog 15	German Shepherd Dog	100				
+German Wirehaired Pointer	GermanWirehairedPointer01	German Wirehaired Pointer	PRJEB13468	SAMEA3928144	F	23.082699999999999	23.424099999999999	0.98542526713939915	German Wirehaired Pointer	German Wirehaired Pointer	100			
+Golden Jackal	GoldenJackal01	Golden Jackal	PRJNA274504	SAMN03366713	F	5.50319	5.5357399999999997	0.99412002731342153							
+Golden Retriever 1	140447_S11	Golden Retriever	PRJNA448733	SAMN08873033	M	35.372300000000003	19.526599999999998	1.811493040263026	Golden Retriever 1	Golden Retreiver	100				
+Golden Retriever 2	164612_S9	Golden Retriever	PRJNA448733	SAMN08873034	M	29.072800000000001	16.2959	1.7840561122736396	Golden Retriever 2	Golden Retreiver	100			
+Golden Retriever 3	172384_S14	Golden Retriever	PRJNA448733	SAMN08873035	F	35.331400000000002	35.052199999999999	1.0079652632359739	Golden Retriever 3	Golden Retreiver	100			
+Golden Retriever 4	173006_S10	Golden Retriever	PRJNA448733	SAMN08873036	F	36.104799999999997	35.555399999999999	1.0154519426022488	Golden Retriever 4	Golden Retreiver	100			
+Golden Retriever 5	175885_S12	Golden Retriever	PRJNA448733	SAMN08873037	F	32.603099999999998	32.509500000000003	1.0028791583998522	Golden Retriever 5	Golden Retreiver	100			
+Golden Retriever 6	91072_S13	Golden Retriever	PRJNA448733	SAMN08873038	F	32.872	32.235599999999998	1.0197421484321683	Golden Retriever 6	Golden Retreiver	100			
+Golden Retriever 7	GoldenRetriever01	Golden Retriever	PRJNA288568	SAMN03801668	M	43.2089	24.592300000000002	1.757009307791463	Golden Retriever 7	Golden Retriever	100				
+Golden Retriever 8	GoldenRetriever02	Golden Retriever	PRJNA247491	SAMN03067891	M	47.817500000000003	26.727699999999999	1.7890615354108286	Golden Retriever 8	Golden Retriever	100				
+Golden Retriever 9	GoldenRetriever03	Golden Retriever	PRJNA247491	SAMN03067895	M	45.024999999999999	25.056699999999999	1.7969245750637555	Golden Retriever 9	Golden Retriever	100				
+Golden Retriever 10	GoldenRetriever04	Golden Retriever	PRJNA247491	SAMN03067893	M	48.970100000000002	27.441199999999998	1.7845465941722667	Golden Retriever 10	Golden Retriever	100				
+Golden Retriever 11	GoldenRetriever05	Golden Retriever	PRJNA247491	SAMN03067878	M	48.196899999999999	27.195599999999999	1.7722315374545883	Golden Retriever 11	Golden Retriever	100				
+Golden Retriever 12	GoldenRetriever06	Golden Retriever	PRJNA247491	SAMN03275923	M	32.067799999999998	17.615100000000002	1.8204722085029319	Golden Retriever 12	Golden Retriever	100			
+Golden Retriever 13	GoldenRetriever07	Golden Retriever	PRJNA247491	SAMN03275922	M	39.375700000000002	21.8688	1.8005423251390109	Golden Retriever 13	Golden Retriever	100			
+Golden Retriever 14	GoldenRetriever08	Golden Retriever	PRJNA247491	SAMN03275921	F	33.328400000000002	32.755899999999997	1.0174777673640476	Golden Retriever 14	Golden Retriever	100			
+Golden Retriever 15	GoldenRetriever09	Golden Retriever	PRJNA247491	SAMN03275924	F	31.7744	31.417000000000002	1.0113760066206194	Golden Retriever 15	Golden Retriever	100			
+Golden Retriever 16	GoldenRetriever10	Golden Retriever	PRJNA263947	SAMN03323669	F	20.667400000000001	20.809200000000001	0.9931857063222036	Golden Retriever 16	Golden Retriever	100			
+Golden Retriever 17	GoldenRetriever11	Golden Retriever	PRJNA247491	SAMN03067876	M	53.73	28.485900000000001	1.8861963287099932	Golden Retriever 17	Golden Retriever	100				
+Golden Retriever 18	GoldenRetriever12	Golden Retriever	PRJNA263947	SAMN03580402	M	31.258299999999998	17.5352	1.7826029928372644	Golden Retriever 18	Golden Retriever	100				
+Golden Retriever 19	GoldenRetriever13	Golden Retriever	PRJNA263947	SAMN04196854	M	30.4404	17.333500000000001	1.7561600369227219	Golden Retriever 19	Golden Retriever	100				
+Golden Retriever 20	GR0892	Golden Retriever	PRJEB16012	SAMEA104016307	M	22.564299999999999	12.7102	1.7752907113971454	Golden Retriever 20	Golden Retriever	100				
+Gordon Setter 1	CFA.109672	Gordon Setter	PRJNA263947	SAMN06159680	F	36.192799999999998	36.009300000000003	1.0050959057798956	Gordon Setter 1	Gordon Setter	100				
+Gordon Setter 2	GordonSetter01	Gordon Setter	PRJNA263947	SAMN04196859	F	32.851300000000002	32.846400000000003	1.0001491792098982	Gordon Setter 2	Gordon Setter	100				
+Great Dane 1	DD116	Great Dane	PRJEB16012	SAMEA104091557	M	33.816499999999998	18.8339	1.7955123474160954	Great Dane 1	Great Dane	100				Biosample indicated female but average depth indicated male
+Great Dane 2	CFA.107837	Great Dane	PRJNA263947	SAMN06159672	M	33.8536	18.740400000000001	1.8064502358540906	Great Dane 2	Great Dane	100				
+Great Dane 3	CFA.117997	Great Dane	PRJNA263947	SAMN06159683	F	40.989899999999999	40.173200000000001	1.0203294733802635	Great Dane 3	Great Dane	100				
+Great Dane 4	GreatDane01	Great Dane	PRJNA288568	SAMN03801669	F	61.020200000000003	62.583599999999997	0.9750190145661165	Great Dane 4	Great Dane	100		yes	yes	
+Great Dane 5	GreatDane02	Great Dane	PRJNA318403	SAMN04851098	F	21.035599999999999	21.165099999999999	0.9938814368937543	Great Dane 5	Great Dane	100				
+Great Pyrenees	GreatPyrenees01	Great Pyrenees	PRJNA288568	SAMN03801670	M	19.305099999999999	11.076499999999999	1.7428880964203495	Great Pyrenees	Great Pyrenees	100				
+Greater Swiss Mountain Dog 1	CFA.107841	Greater Swiss Mountain Dog	PRJNA263947	SAMN06159674	M	34.860100000000003	19.347200000000001	1.8018162834932188	Greater Swiss Mountain Dog 1	Greater Swiss Mountain Dog	100				
+Greater Swiss Mountain Dog 2	GreaterSwissMountainDog01	Greater Swiss Mountain Dog	PRJNA448733	SAMN08873062	M	41.615000000000002	23.674700000000001	1.7577836255580852	Greater Swiss Mountain Dog 2	Greater Swiss Mountain Dog	100				
+Greenland Dog	GreenlandDog01	Greenland Dog	PRJNA266585	SAMN03168381	F	17.883400000000002	18.145	0.98558280518049057	Greenland Dog	Greenland dog	100				
+Grey Wolf 1	Wolf01	Grey Wolf	PRJNA192935	SAMN01974486	F	12.4528	13.612500000000001	0.9148062442607896							Wolf (Altai, Russia)
+Grey Wolf 2	Wolf02	Grey Wolf	PRJNA192935	SAMN01974487	F	9.6648999999999994	8.9691200000000002	1.0775750575307275							Wolf (Chukotka, Russia)
+Grey Wolf 3	Wolf03	Grey Wolf	PRJNA192935	SAMN01974488	F	13.547700000000001	12.837300000000001	1.0553387394545581							Wolf (Bryansk, Russia)
+Grey Wolf 4	Wolf04	Grey Wolf	PRJNA192935	SAMN01974489	F	9.3350399999999993	9.76403	0.95606424806150736							Wolf (Inner Mongolia)
+Grey Wolf 5	Wolf05	Grey Wolf	PRJNA274504	SAMN03366711	F	28.168700000000001	28.177499999999998	0.99968769408215785							Wolf (Chinese)
+Grey Wolf 6	Wolf06	Grey Wolf	PRJNA274504	SAMN03366712	F	8.9827399999999997	9.3768899999999995	0.95796580742655613							Wolf (Croatian)
+Grey Wolf 7	Wolf07	Grey Wolf	PRJNA274504	SAMN03366710	F	7.0194000000000001	7.1956199999999999	0.97551010197870369							Wolf (Israeli)
+Grey Wolf 8	Wolf08	Grey Wolf	PRJNA288568	SAMN03801694	M	22.283999999999999	12.595599999999999	1.7691892406872241							Wolf (Unknown Locale)
+Grey Wolf 9	Wolf18	Grey Wolf	PRJNA255370	SAMN02921310	M	26.312899999999999	14.718400000000001	1.787755462550277							Wolf (Great Lakes 01)
+Grey Wolf 10	Wolf19	Grey Wolf	PRJNA255370	SAMN02921311	M	27.129000000000001	15.025700000000001	1.8055065654179174							Wolf (India 01)
+Grey Wolf 11	Wolf20	Grey Wolf	PRJNA255370	SAMN02921312	F	29.65	29.849499999999999	0.99331647096266262							Wolf (Iran 01)
+Grey Wolf 12	Wolf21	Grey Wolf	PRJNA255370	SAMN02921313	M	6.6804399999999999	3.9007700000000001	1.7125952055619786							Wolf (Italy 01)
+Grey Wolf 13	Wolf22	Grey Wolf	PRJNA255370	SAMN02921314	F	25.347200000000001	25.303000000000001	1.0017468284393154							Wolf (Mexico 01)
+Grey Wolf 14	Wolf23	Grey Wolf	PRJNA255370	SAMN02921315	F	6.1300100000000004	6.0924399999999999	1.0061666590069005							Wolf (Mexico 02)
+Grey Wolf 15	Wolf24	Grey Wolf	PRJNA255370	SAMN02921316	F	27.797699999999999	27.956900000000001	0.994305520283007							Wolf (Portugal 01)
+Grey Wolf 16	Wolf27	Grey Wolf	PRJNA255370	SAMN02921319	F	27.37	27.552	0.99339430894308944							Wolf (Spain 01)
+Grey Wolf 17	Wolf28	Grey Wolf	PRJNA255370	SAMN02921320	F	27.936900000000001	27.715199999999999	1.0079992206442674							Wolf (Yellowstone 01)
+Grey Wolf 18	Wolf29	Grey Wolf	PRJNA255370	SAMN02921321	M	25.8537	14.2722	1.8114726531298608							Wolf (Yellowstone 02)
+Grey Wolf 19	Wolf30	Grey Wolf	PRJNA255370	SAMN02921322	M	6.4870700000000001	3.9536799999999999	1.6407675886768784							Wolf (Yellowstone 03)
+Grey Wolf 20	Wolf31	Grey Wolf	PRJNA266585	SAMN03168394	F	17.225899999999999	17.1142	1.0065267438735086							
+Grey Wolf 21	Wolf32	Grey Wolf	PRJNA266585	SAMN03168397	M	15.1332	9.0247499999999992	1.6768553145516498							
+Grey Wolf 22	Wolf33	Grey Wolf	PRJNA266585	SAMN03168399	M	19.085599999999999	10.691000000000001	1.7852025067814048							
+Grey Wolf 23	Wolf34	Grey Wolf	PRJNA266585	SAMN03168396	M	17.4116	10.2606	1.6969378009083289							
+Grey Wolf 24	Wolf35	Grey Wolf	PRJNA266585	SAMN03168398	F	31.859300000000001	37.471499999999999	0.8502275062380743							
+Grey Wolf 25	Wolf36	Grey Wolf	PRJNA266585	SAMN03168400	M	21.2439	14.2272	1.4931891025641026							
+Grey Wolf 26	Wolf37	Grey Wolf	PRJNA266585	SAMN03168393	M	11.0496	6.5623699999999996	1.6837819263467315							
+Grey Wolf 27	Wolf38	Grey Wolf	PRJNA266585	SAMN03168395	M	9.22011	5.5213200000000002	1.6699104561952576							
+Grey Wolf (Canis Lupus chanco) 1	WolfTibetan01	Grey Wolf (Canis Lupus chanco)	PRJNA448733	SAMN03652997	M	27.317	15.3202	1.7830707170924662							Grey Wolf (Inner Mongolia, Haerbing Zoo, Lowland)
+Grey Wolf (Canis Lupus chanco) 2	WolfTibetan02	Grey Wolf (Canis Lupus chanco)	PRJNA448733	SAMN03653003	F	27.258199999999999	27.389399999999998	0.99520982569899308							Grey Wolf (Inner Mongolia, Haerbing Zoo, Lowland)
+Grey Wolf (Canis Lupus chanco) 3	WolfTibetan03	Grey Wolf (Canis Lupus chanco)	PRJNA448733	SAMN03652998	F	27.763100000000001	27.7865	0.99915786443056887							Grey Wolf (Qinghai, Xining Zoo, Highland)
+Grey Wolf (Canis Lupus chanco) 4	WolfTibetan04	Grey Wolf (Canis Lupus chanco)	PRJNA448733	SAMN03653001	M	27.741199999999999	15.129	1.8336439949765351							Grey Wolf (Qinghai, Xining Zoo, Highland)
+Grey Wolf (Canis Lupus chanco) 5	WolfTibetan05	Grey Wolf (Canis Lupus chanco)	PRJNA448733	SAMN03653004	M	25.146999999999998	13.4971	1.863140971023405							Grey Wolf (Tibet, Luobulingka Zoo, Highland)
+Grey Wolf (Canis Lupus chanco) 6	WolfTibetan06	Grey Wolf (Canis Lupus chanco)	PRJNA448733	SAMN03652999	M	27.393699999999999	15.2522	1.7960490945568508							Grey Wolf (Tibet, Luobulingka Zoo, Highland)
+Grey Wolf (Canis Lupus chanco) 7	WolfTibetan07	Grey Wolf (Canis Lupus chanco)	PRJNA448733	SAMN03653000	F	25.1953	24.946100000000001	1.0099895374427263							Grey Wolf (Xinjiang Kalamaili Nature Reserve, Lowland)
+Grey Wolf (Canis Lupus chanco) 8	WolfTibetan08	Grey Wolf (Canis Lupus chanco)	PRJNA448733	SAMN03653002	M	27.836600000000001	15.048500000000001	1.849792338106788							Grey Wolf (Xinjiang Duzhishan Garden, Lowland)
+Greyhound 1	Greyhound01	Greyhound	PRJNA288568	SAMN03801671	F	18.0336	18.5108	0.97422045508567967	Greyhound 1	Greyhound	100				
+Greyhound 2	Greyhound02	Greyhound	PRJNA247491	SAMN03067872	M	58.872599999999998	30.509499999999999	1.929648142381881	Greyhound 2	Greyhound	100				
+Greyhound 3	Greyhound03	Greyhound	PRJNA247491	SAMN03067873	M	70.605900000000005	39.945500000000003	1.7675557947703746	Greyhound 3	Greyhound	100				
+Greyhound 4	Greyhound04	Greyhound	PRJNA247491	SAMN03067882	M	41.1858	30.546900000000001	1.3482808402816653	Greyhound 4	Greyhound	100				
+Greyhound 5	Greyhound05	Greyhound	PRJNA247491	SAMN03068229	F	51.061199999999999	51.305	0.9952480265081376	Greyhound 5	Greyhound	100				
+Greyhound 6	Greyhound06	Greyhound	PRJNA247491	SAMN03067874	M	75.685599999999994	42.607399999999998	1.7763487093791219	Greyhound 6	Greyhound	100				
+Greyhound 7	Greyhound07	Greyhound	PRJNA247491	SAMN03067890	F	57.249299999999998	57.573099999999997	0.99437584566403414	Greyhound 7	Greyhound	100				
+Greyhound 8	Greyhound08	Greyhound	PRJNA247491	SAMN03068228	F	73.857399999999998	74.205100000000002	0.99531433823281679	Greyhound 8	Greyhound	100				
+Greyhound 9	GY432	Greyhound	PRJEB16012	SAMEA104125118	F	37.638599999999997	38.087200000000003	0.988221764792371	Greyhound 9	Greyhound	100				
+Grossspitz	GS104	Grossspitz	PRJEB16012	SAMEA104105252	F	30.3111	31.1937	0.97170582521470683	Grossspitz	outside Eurasier and Samoyed clade	97	Breed not available for comparison			
+Heideterrier	Heideterrier01	Heideterrier	PRJEB16012	SAMEA103135918	F	24.7455	25.220700000000001	0.98115833422545762	Heideterrier	outside Lakeland Terrier, Smooth Fox Terrier and Wire Fox Terrier clade	100	Breed not available for comparison			
+Hovawart	HW1706	Hovawart	PRJEB16012	SAMEA4506894	F	14.576700000000001	14.7294	0.98963297894007907	Hovawart	with Southern Continental Herders clade	89	Breed not available for comparison			
+Iberian Wolf (Canis lupus signatus)	Wolf39	Iberian Wolf (Canis lupus signatus)	PRJNA318403	SAMN04851099	F	38.613300000000002	39.164499999999997	0.9859260299505932							
+Irish Setter	IrishSetter01	Irish Setter	PRJNA448733	SAMN08873112	F	47.365000000000002	48.264200000000002	0.98136921362003304	Irish Setter	Irish Setter	100				
+Irish Terrier 1	CFA.117998	Irish Terrier	PRJNA263947	SAMN06159684	M	42.633499999999998	23.633299999999998	1.8039588208163904	Irish Terrier 1	Irish Terrier	100				
+Irish Terrier 2	IrishTerrier01	Irish Terrier	PRJEB13468	SAMEA3928141	M	20.5625	11.4556	1.7949736373476728	Irish Terrier 2	Irish Terrier	100			
+Irish Water Spaniel 1	IrishWaterSpaniel01	Irish Water Spaniel	PRJNA448733	SAMN08873115	F	55.760399999999997	56.966500000000003	0.97882790762992278	Irish Water Spaniel 1	Irish Water Spaniel	100		yes	yes	
+Irish Water Spaniel 2	IrishWaterSpaniel02	Irish Water Spaniel	PRJNA448733	SAMN08873116	M	54.514499999999998	30.678999999999998	1.7769321033932006	Irish Water Spaniel 2	Irish Water Spaniel	100		yes	yes	
+Irish Water Spaniel 3	IrishWaterSpaniel03	Irish Water Spaniel	PRJNA448733	SAMN08873117	F	54.006999999999998	55.314	0.97637126224825532	Irish Water Spaniel 3	Irish Water Spaniel	100		yes	yes	
+Irish Wolfhound	IrishWolfhound01	Irish Wolfhound	PRJNA288568	SAMN03801672	F	41.0306	41.351500000000001	0.99223970109911364	Irish Wolfhound	Irish Wolfhound	100		yes	yes	
+Istrian Shorthaired Hound	IstrianShorthairedHound01	Istrian Shorthaired Hound	PRJNA232497	SAMN02485584	F	7.0132899999999996	7.2472300000000001	0.96772008063770565	Istrian Shorthaired Hound	outside Segugio Italiano	53	Breed not available for comparison			
+Italian Greyhound 1	ItalianGreyhound01	Italian Greyhound	PRJNA288568	SAMN03801673	M	23.6235	13.4397	1.75774012812786	Italian Greyhound 1	Italian Greyhound	100			
+Italian Greyhound 2	ItalianGreyhound02	Italian Greyhound	PRJNA448733	SAMN03801674	F	31.327400000000001	31.439699999999998	0.99642808296516827	Italian Greyhound 2	Italian Greyhound	100				
+Jack Russell Terrier 1	JackRussellTerrier02	Jack Russell Terrier	PRJNA263947	SAMN03580384	M	29.9588	17.076499999999999	1.7543876087020174	Jack Russell Terrier 1	Jack Russell Terrier	100				
+Jack Russell Terrier 2	JackRussellTerrier03	Jack Russell Terrier	PRJNA263947	SAMN03580400	F	38.414900000000003	38.906500000000001	0.98736457918342702	Jack Russell Terrier 2	Jack Russell Terrier	100				
+Jack Russell Terrier 3	JackRussellTerrier04	Jack Russell Terrier	PRJNA263947	SAMN03580404	F	26.838100000000001	26.7898	1.0018029249938409	Jack Russell Terrier 3	Jack Russell Terrier	100				
+Jack Russell Terrier 4	JackRussellTerrier05	Jack Russell Terrier	PRJNA263947	SAMN04196852	M	26.929500000000001	15.0373	1.7908467610541787	Jack Russell Terrier 4	Jack Russell Terrier	100				
+Jamthund	Jamthund01	Jamthund	PRJNA266585	SAMN03168383	M	38.5871	21.712	1.7772245762711865	Jamthund	Norwegian Elkhound	100	Breed not available for comparison			
+Jindo	Jindo01	Jindo	PRJDB2266	SAMD00009664	M	44.367199999999997	24.739699999999999	1.7933604692053662	Jindo	outside Akita clade	69	Breed not available for comparison			
+Keeshond	Keeshond01	Keeshond	PRJNA448733	SAMN08873128	F	44.230800000000002	44.613	0.99143299038396882	Keeshond	Keeshond	100				
+Kerry Blue Terrier	KerryBlueTerrier02	Kerry Blue Terrier	PRJNA263947	SAMN03580387	F	26.775200000000002	27.047899999999998	0.98991788641632084	Kerry Blue Terrier	Kerry Blue Terrier	100				
+Komondor	Komondor01	Komondor	PRJNA448733	SAMN08873130	M	49.702399999999997	27.764199999999999	1.7901614309074276	Komondor	Komondor	100				
+Kromfohrländer	Kromfohrlander01	Kromfohrländer	PRJEB6076	SAMEA2446055	M	24.168600000000001	13.441599999999999	1.7980448756100467	Kromfohrländer	with Norwegian Lundehund outside Airedale Terrier clade	60	Breed not available for comparison		
+Kunming Dog 1	VillDog_China10	Kunming Dog	PRJNA233638	SAMN02585191	F	12.238300000000001	12.353300000000001	0.99069074660212253	Kunming Dog 1	Kunming Dog	100	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+Kunming Dog 2	VillDog_China11	Kunming Dog	PRJNA233638	SAMN02585192	F	17.589400000000001	17.797000000000001	0.98833511265943708	Kunming Dog 2	Kunming Dog	100	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+Kunming Dog 3	VillDog_China12	Kunming Dog	PRJNA233638	SAMN02585193	F	16.738199999999999	16.942599999999999	0.98793573595552042	Kunming Dog 3	Kunming Dog	100	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+Kunming Dog 4	VillDog_China13	Kunming Dog	PRJNA233638	SAMN02585194	F	17.2333	17.424800000000001	0.98900991690005047	Kunming Dog 4	Kunming Dog	100	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+Kunming Dog 5	VillDog_China14	Kunming Dog	PRJNA233638	SAMN02585195	F	17.027699999999999	17.260899999999999	0.98648969636577466	Kunming Dog 5	Kunming Dog	100	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+Kunming Dog 6	VillDog_China15	Kunming Dog	PRJNA233638	SAMN02585196	M	16.497199999999999	9.2397399999999994	1.7854614956697916	Kunming Dog 6	Kunming Dog	100	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+Kunming Dog 7	VillDog_China16	Kunming Dog	PRJNA233638	SAMN02585197	M	18.4421	10.3621	1.7797647195066637	Kunming Dog 7	Kunming Dog	100	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+Labrador Retriever 1	LabradorRetriever13	Labrador Retriever	PRJNA448733	SAMN08873139	F	16.852399999999999	19.808499999999999	0.85076608526642605	Labrador Retriever 1	Labrador Retriever	100				One of six BAM file that needed to be remade after making 722g VCF - Slight diffences in genotypes in 722g VCF compared to a joint call of the 6g for a subset of Illumina SNPchip SNPs (123 out of 116523 tested for 0.1% discordance)
+Labrador Retriever 2	CFA.117999	Labrador Retriever	PRJNA263947	SAMN06159685	M	37.128500000000003	20.566199999999998	1.8053164901634724	Labrador Retriever 2	Labrador Retriever	100				
+Labrador Retriever 3	149323_S6	Labrador Retriever	PRJNA448733	SAMN08873141	F	33.141300000000001	32.928699999999999	1.0064563739230521	Labrador Retriever 3	Labrador Retriever	100				
+Labrador Retriever 4	152721_S5	Labrador Retriever	PRJNA448733	SAMN08873142	F	33.973799999999997	33.506799999999998	1.0139374694091945	Labrador Retriever 4	Labrador Retriever	100				
+Labrador Retriever 5	160822_S4	Labrador Retriever	PRJNA448733	SAMN08873143	F	34.494799999999998	34.375100000000003	1.0034821716882276	Labrador Retriever 5	Labrador Retriever	100				
+Labrador Retriever 6	172281_S2	Labrador Retriever	PRJNA448733	SAMN08873144	M	36.508699999999997	20.285900000000002	1.7997081716857519	Labrador Retriever 6	Labrador Retriever	100			
+Labrador Retriever 7	172724_S8	Labrador Retriever	PRJNA448733	SAMN08873145	M	29.884599999999999	16.5471	1.8060324769899256	Labrador Retriever 7	Labrador Retriever	100			
+Labrador Retriever 8	173486_S3	Labrador Retriever	PRJNA448733	SAMN08873146	M	32.430599999999998	17.5383	1.8491301893570071	Labrador Retriever 8	Labrador Retriever	100			
+Labrador Retriever 9	87125_S1	Labrador Retriever	PRJNA448733	SAMN08873147	M	32.6509	17.0091	1.9196136185924004	Labrador Retriever 9	Labrador Retriever	100			
+Labrador Retriever 10	91317_S7	Labrador Retriever	PRJNA448733	SAMN08873148	M	31.518699999999999	16.9253	1.862224007846242	Labrador Retriever 10	Labrador Retriever	100			
+Labrador Retriever 11	LA2443	Labrador Retriever	PRJEB16012	SAMEA104091568	M	17.782399999999999	10.1957	1.7441078101552614	Labrador Retriever 11	Labrador Retriever	100				
+Labrador Retriever 12	LabradorRetriever01	Labrador Retriever	PRJEB5874	SAMEA2417015	M	41.382300000000001	23.180099999999999	1.7852511421434767	Labrador Retriever 12	Labrador Retriever	100			
+Labrador Retriever 13	LabradorRetriever02	Labrador Retriever	PRJEB5875	SAMEA2417016	M	29.162299999999998	16.052900000000001	1.8166374922911124	Labrador Retriever 13	Labrador Retriever	100			
+Labrador Retriever 14	LabradorRetriever03	Labrador Retriever	PRJNA232497	SAMN02485565	M	9.7200199999999999	5.6471200000000001	1.7212348949553047	Labrador Retriever 14	Labrador Retriever	100				
+Labrador Retriever 15	LabradorRetriever04	Labrador Retriever	PRJNA288568	SAMN03801675	F	38.325200000000002	39.235599999999998	0.97679658269530745	Labrador Retriever 15	Labrador Retriever	100				
+Labrador Retriever 16	LabradorRetriever05	Labrador Retriever	PRJNA263947	SAMN04196848	M	11.976599999999999	6.9260900000000003	1.7292007467416679	Labrador Retriever 16	Labrador Retriever	100				
+Labrador Retriever 17	LabradorRetriever06	Labrador Retriever	PRJNA448733	SAMN08873155	M	41.132100000000001	22.779800000000002	1.8056392066655544	Labrador Retriever 17	Labrador Retriever	100				
+Labrador Retriever 18	LabradorRetriever07	Labrador Retriever	PRJNA263947	SAMN03580399	F	37.356000000000002	37.619	0.99300885190993915	Labrador Retriever 18	Labrador Retriever	100				
+Labrador Retriever 19	LabradorRetriever08	Labrador Retriever	PRJEB16012	SAMEA4504834	M	15.7211	8.7292799999999993	1.8009618204479638	Labrador Retriever 19	Labrador Retriever	100			
+Labrador Retriever 20	LabradorRetriever10	Labrador Retriever	PRJNA263947	SAMN04196862	F	23.8674	24.1297	0.98912957890069086	Labrador Retriever 20	Labrador Retriever	100				
+Labrador Retriever 21	LabradorRetriever12	Labrador Retriever	PRJNA263947	SAMN04196865	M	27.882300000000001	15.5716	1.7905867091371472	Labrador Retriever 21	Labrador Retriever	100				
+Labrador Retriever 22	LR04989	Labrador Retriever	PRJNA448733	SAMN08873160	M	15.8429	9.4906799999999993	1.6693113665195751	Labrador Retriever 22	Labrador Retriever	100				
+Labrador Retriever 23	PER00167	Labrador Retriever	PRJNA448733	SAMN08873161	M	12.6615	8.1132899999999992	1.56058762844666	Labrador Retriever 23	Labrador Retriever	100				
+Labrador Retriever 24	PER00177	Labrador Retriever	PRJNA448733	SAMN08873162	M	14.0116	8.8346099999999996	1.5859896475339601	Labrador Retriever 24	Labrador Retriever	100				
+Lagotto Romagnolo 1	LagottoRomagnolo01	Lagotto Romagnolo	PRJEB13468	SAMEA3928142	M	7.9604499999999998	4.6426999999999996	1.7146164947121287	Lagotto Romagnolo 1	Lagotto Romagnolo	100			
+Lagotto Romagnolo 2	LagottoRomagnolo02	Lagotto Romagnolo	PRJEB16012	SAMEA4505491	M	21.7699	12.0974	1.79955196984476	Lagotto Romagnolo 2	Lagotto Romagnolo	100			
+Lagotto Romagnolo 3	LagottoRomagnolo03	Lagotto Romagnolo	PRJEB16012	SAMEA4505494	F	16.988900000000001	16.9711	1.0010488418546823	Lagotto Romagnolo 3	Lagotto Romagnolo	100			
+Lagotto Romagnolo 4	LagottoRomagnolo04	Lagotto Romagnolo	PRJEB16012	SAMEA4504833	M	15.0017	8.3364100000000008	1.7995396099759966	Lagotto Romagnolo 4	Lagotto Romagnolo	100			
+Lagotto Romagnolo 5	LR1030	Lagotto Romagnolo	PRJEB16012	SAMEA4509490	M	21.0168	11.832800000000001	1.7761476573592048	Lagotto Romagnolo 5	Lagotto Romagnolo	100				
+Landseer	Landseer01	Landseer	PRJEB7734	SAMEA3121328	M	23.810300000000002	13.2171	1.8014768746548033	Landseer	Newfoundland	100			
+Lapponian Herder	LapponianHerder01	Lapponian Herder	PRJNA266585	SAMN03168384	M	17.048999999999999	9.7423500000000001	1.7499884524780982	Lapponian Herder	outside Finnish Spitz clade	78	Breed not available for comparison			
+Leonberger	Leonberger01	Leonberger	PRJEB16012	SAMEA103935360	F	17.119599999999998	17.384499999999999	0.9847622882452759	Leonberger	Leonberger	100				
+Lowchen	Lowchen01	Lowchen	PRJNA263947	SAMN04196863	M	29.272300000000001	16.698799999999999	1.7529582964045323	Lowchen	outside Bichon Frise, Bolognese, Havanese and Maltese clade	90	Breed not available for comparison			
+English Mastiff 1	EnglishMastiff01	Mastiff (English)	PRJNA288568	SAMN03801664	F	73.3827	73.949600000000004	0.99233396799982687	English Mastiff 1	Mastiff (English)	100		yes	yes
+English Mastiff 2	EnglishMastiff02	Mastiff (English)	PRJNA263947	SAMN03580412	M	18.833300000000001	10.507899999999999	1.7922991273232523	English Mastiff 2	Mastiff (English)	100			
+Miniature Poodle 1	BAN00024	Miniature Poodle	PRJNA448733	SAMN08873174	M	13.514099999999999	8.5075699999999994	1.5884794365488617	Miniature Poodle 1	Mini/Toy Poodle	100				
+Miniature Poodle 2	MiniaturePoodle01	Miniature Poodle	PRJNA448733	SAMN08873175	F	54.1616	55.382100000000001	0.97796219356073533	Miniature Poodle 2	Mini/Toy Poodle	100		yes	yes	
+Miniature Schnauzer 1	MS04563	Miniature Schnauzer	PRJNA448733	SAMN08873176	F	9.8064300000000006	10.6248	0.92297549130336576	Miniature Schnauzer 1	Miniature Schnauzer	100				One of six BAM file that needed to be remade after making 722g VCF - Slight diffences in genotypes in 722g VCF compared to a joint call of the 6g for a subset of Illumina SNPchip SNPs (0 out of 109137 tested for 0% discordance)
+Miniature Schnauzer 2	MS04593	Miniature Schnauzer	PRJNA448733	SAMN08873177	F	16.697800000000001	18.523900000000001	0.90141924756665714	Miniature Schnauzer 2	Miniature Schnauzer	100				
+Miniature Schnauzer 3	MiniatureSchnauzer01	Miniature Schnauzer	PRJNA263947	SAMN04196847	F	6.64229	6.8565800000000001	0.96874680963395743	Miniature Schnauzer 3	Miniature Schnauzer	100				
+MIX: American Cocker Spaniel and Beagle 1	C3549	MIX: American Cocker Spaniel and Beagle	PRJNA356874	SAMN06128273	F	12.9252	12.668100000000001	1.0202950718734458	MIX: American Cocker Spaniel and Beagle 1	outside American Cocker Spaniel clade	100				
+MIX: American Cocker Spaniel and Beagle 2	C750	MIX: American Cocker Spaniel and Beagle	PRJNA356874	SAMN06128271	F	16.721	16.363299999999999	1.0218598937867056	MIX: American Cocker Spaniel and Beagle 2	outside American Cocker Spaniel clade	100				
+MIX: American Cocker Spaniel and Beagle 3	C783	MIX: American Cocker Spaniel and Beagle	PRJNA356874	SAMN06128272	F	13.6435	13.7295	0.99373611566335263	MIX: American Cocker Spaniel and Beagle 3	outside American Cocker Spaniel clade	100				
+MIX: Dachsund	CFA.118000	MIX: Dachsund	PRJNA263947	SAMN06159686	M	43.653199999999998	24.138999999999999	1.8084096275736361	MIX: Dachsund	outside Dachshund clade	64				
+MIX: Golden Retriever	GR1078	MIX: Golden Retriever	PRJEB16012	SAMEA104091572	F	31.228300000000001	31.4864	0.99180281010213933	MIX: Golden Retriever	outside Golden Retriever clade	100				
+MIX: Kerry Blue Terrier and Beagle	MIX_KerryBlueTerrier_Beagle01	MIX: Kerry Blue Terrier and Beagle	PRJNA263947	SAMN04196846	M	24.379200000000001	14.0337	1.7371897646379786	MIX: Kerry Blue Terrier and Beagle	outside Kerry Blue Terrier clade	100			
+MIX: Labrador Retriever	LA2382	MIX: Labrador Retriever	PRJEB16012	SAMEA104125075	F	31.1402	31.160799999999998	0.99933891299324795	MIX: Labrador Retriever	outside Labrador Retriever clade	100				
+MIX: Miniature Schnauzer and Beagle	A168	MIX: Miniature Schnauzer and Beagle	PRJNA356874	SAMN06128270	F	13.7715	13.6051	1.0122307076022961	MIX: Miniature Schnauzer and Beagle	outside Miniature Schnauzer clade	100				
+MIX: Mixed Breed	MI016	MIX: Mixed Breed	PRJEB16012	SAMEA4506893	F	27.113499999999998	27.660399999999999	0.98022805165507365	MIX: Mixed Breed	with Bernese Mountain Dog, Entlebucher Sennenhund and Greater Swiss Mountain Dog clade	92				
+MIX: Siberian Husky	MixedBreed07	MIX: Siberian Husky	PRJNA448733	SAMN08873188	F	63.463000000000001	64.3001	0.9869813577272819	MIX: Siberian Husky	outside Siberian Husky clade	100				
+MIX: Tibetan Mastiff	MixedBreed06	MIX: Tibetan Mastiff	PRJNA232497	SAMN02485589	M	8.9349500000000006	5.2174100000000001	1.7125259467820242	MIX: Tibetan Mastiff	outside Tibetian Mastiff clade	100				
+New Guinea Singing Dog 1	NewGuineaSingingDog01	New Guinea Singing Dog	PRJNA448733	SAMN08873190	M	45.945099999999996	25.936800000000002	1.7714251565343448	New Guinea Singing Dog 1	New Guinea Singing Dog	100				
+New Guinea Singing Dog 2	NGSD1	New Guinea Singing Dog	PRJNA263947	SAMN06608432	M	9.6342199999999991	5.5866600000000002	1.7245044445160433	New Guinea Singing Dog 2	New Guinea Singing Dog	100				
+New Guinea Singing Dog 3	NGSD2	New Guinea Singing Dog	PRJNA263947	SAMN06608434	M	11.226900000000001	6.7662599999999999	1.6592475015739863	New Guinea Singing Dog 3	New Guinea Singing Dog	100				
+New Guinea Singing Dog 4	NGSD3	New Guinea Singing Dog	PRJNA232497	SAMN06608444	M	9.5425900000000006	5.7680199999999999	1.6543961359357284	New Guinea Singing Dog 4	New Guinea Singing Dog	100				
+New Guinea Singing Dog 5	IndigenousDogNigeria01	Nigerian Indigenous Dog	PRJNA266585	SAMN03168373	F	17.182099999999998	16.744900000000001	1.0261094422779471							
+New Guinea Singing Dog 6	IndigenousDogNigeria02	Nigerian Indigenous Dog	PRJNA266585	SAMN03168374	F	17.335599999999999	17.118500000000001	1.0126821859391886							
+New Guinea Singing Dog 7	IndigenousDogNigeria03	Nigerian Indigenous Dog	PRJNA266585	SAMN03168375	M	15.690899999999999	9.0468700000000002	1.7344009585635694							
+New Guinea Singing Dog 8	IndigenousDogNigeria04	Nigerian Indigenous Dog	PRJNA266585	SAMN03168376	M	17.826499999999999	10.2027	1.7472335754261126							
+Norwegian Elkhound 1	NorwegianElkhound01	Norwegian Elkhound	PRJNA266585	SAMN03168382	M	19.9255	11.1683	1.7841121746371424	Norwegian Elkhound 1	Norwegian Elkhound	100				
+Norwegian Elkhound 2	NorwegianElkhound02	Norwegian Elkhound	PRJNA448733	SAMN08873199	F	41.352699999999999	41.988199999999999	0.98486479534726423	Norwegian Elkhound 2	Norwegian Elkhound	100				
+Norwegian Lundehund 1	NorwegianLundehund01	Norwegian Lundehund	PRJNA186960	SAMN01893932	M	23.2392	13.139799999999999	1.7686113943895647	Norwegian Lundehund 1	with other Norwegian Lundehund outside Airedale Terrier clade	100	Breed not available for comparison			
+Norwegian Lundehund 2	NorwegianLundehund02	Norwegian Lundehund	PRJNA309755	SAMN04440505	F	14.1402	14.3725	0.98383718907636108	Norwegian Lundehund 2	with other Norwegian Lundehund outside Airedale Terrier clade	100	Breed not available for comparison			
+Norwegian Lundehund 3	NorwegianLundehund03	Norwegian Lundehund	PRJNA309755	SAMN04440506	F	13.0715	13.4069	0.97498303112576357	Norwegian Lundehund 3	with other Norwegian Lundehund outside Airedale Terrier clade	100	Breed not available for comparison			
+Norwich Terrier 1	NW255	Norwich Terrier	PRJEB16012	SAMEA104091553	M	15.818199999999999	8.9420599999999997	1.7689659877030572	Norwich Terrier 1	Norwich Terrier	100				Biosample indicated female but average depth indicated male
+Norwich Terrier 2	NW062	Norwich Terrier	PRJEB16012	SAMEA104091550	F	16.552700000000002	16.682700000000001	0.99220749638847439	Norwich Terrier 2	Norwich Terrier	100				
+Norwich Terrier 3	NW152	Norwich Terrier	PRJEB16012	SAMEA104091551	F	15.656499999999999	15.848000000000001	0.98791645633518421	Norwich Terrier 3	Norwich Terrier	100				
+Norwich Terrier 4	NW206	Norwich Terrier	PRJEB16012	SAMEA104091552	F	14.44	14.6576	0.98515445912018329	Norwich Terrier 4	Norwich Terrier	100				
+Nova Scotia Duck Tolling Retriever	NovaScotiaDuckTollingRetriever01	Nova Scotia Duck Tolling Retriever	PRJNA263947	SAMN03323675	M	24.170300000000001	13.4861	1.7922379338726542	Nova Scotia Duck Tolling Retriever	Nova Scotia Duck Tolling Retriever	100			
+Pekingese	Pekingese01	Pekingese	PRJNA288568	SAMN03801676	F	62.875700000000002	63.6693	0.98753559407752245	Pekingese	Pekingese	100		yes	yes	
+Pembroke Welsh Corgi 1	PembrokeWelshCorgi01	Pembroke Welsh Corgi	PRJNA263947	SAMN03145702	M	15.29	9.2965900000000001	1.6446890741659037	Pembroke Welsh Corgi 1	Pembroke Welsh Corgi	100				Slight diffences in genotypes in 435g VCF compared to 722g VCF for a subset of Illumina SNPchip SNPs (110 differences out of 135988 tested for 0.08% discordance) - Likely due to using diffent duplicate BAM for the 435g dataset
+Pembroke Welsh Corgi 2	PembrokeWelshCorgi02	Pembroke Welsh Corgi	PRJNA263947	SAMN03145703	F	25.735800000000001	25.973800000000001	0.99083692028120651	Pembroke Welsh Corgi 2	Pembroke Welsh Corgi	100				Slight diffences in genotypes in 435g VCF compared to 722g VCF for a subset of Illumina SNPchip SNPs (12 differences out of 142244 tested for 0.008% discordance) - Likely due to using diffent duplicate BAM for the 435g dataset
+Pembroke Welsh Corgi 3	PembrokeWelshCorgi03	Pembroke Welsh Corgi	PRJNA263947	SAMN03145704	F	24.993400000000001	25.191700000000001	0.99212835973753266	Pembroke Welsh Corgi 3	Pembroke Welsh Corgi	100			
+Peruvian Inca Orchid	PeruvianHairless01	Peruvian Inca Orchid	PRJNA266585	SAMN03168386	M	17.925699999999999	10.0761	1.7790315697541705	Peruvian Inca Orchid	Peruvian Inca Orchid	86				
+Petit Basset Griffon Vendeen	PetitBassetGriffonVendeen01	Petit Basset Griffon Vendeen	PRJEB11835	SAMEA3723573	M	28.622599999999998	16.078900000000001	1.780134213161348	Petit Basset Griffon Vendeen	Petit Basset Griffon Vendeen	100			
+English Pointer 1	EnglishPointer01	Pointer (English)	PRJNA288568	SAMN03801665	M	22.035499999999999	12.4887	1.7644350492845533	English Pointer 1	with another Pointer outside Vizsla clade	100	Breed not available for comparison			
+English Pointer 2	EnglishPointer02	Pointer (English)	PRJNA263947	SAMN03580383	F	18.0962	18.881	0.95843440495736454	English Pointer 2	with another Pointer outside Vizsla clade	100	Breed not available for comparison			
+Pomeranian	Pomeranian01	Pomeranian	PRJEB16012	SAMEA4506892	M	23.7149	13.385899999999999	1.7716328375380064	Pomeranian	Pomeranian	100			
+Poodle unspecified variety	PL116	Poodle unspecified variety	PRJEB16012	SAMEA4506891	F	19.8568	19.741199999999999	1.0058557737118312	Poodle unspecified variety	outside Mini/Toy Poodle clade	64				
+Portuguese Podengo	PortuguesePodengo01	Portuguese Podengo	PRJNA263947	SAMN03580388	M	28.344000000000001	16.132300000000001	1.7569720374652096	Portuguese Podengo	outside Papillon, Pug, and Schipperke clade	42	Breed not available for comparison			
+Portuguese Water Dog 1	PortugueseWaterDog01	Portuguese Water Dog	PRJNA448733	SAMN08873219	F	43.428699999999999	44.273699999999998	0.98091417703964212	Portuguese Water Dog 1	Portuguese Water Dog	100			
+Portuguese Water Dog 2	PortugueseWaterDog02	Portuguese Water Dog	PRJNA448733	SAMN08873220	F	56.156999999999996	56.9634	0.9858435416425283	Portuguese Water Dog 2	Portuguese Water Dog	100		yes	yes
+Portuguese Water Dog 3	PortugueseWaterDog03	Portuguese Water Dog	PRJNA448733	SAMN08873221	F	15.0396	15.2682	0.98502770464101863	Portuguese Water Dog 3	Portuguese Water Dog	100		yes	
+Portuguese Water Dog 4	PortugueseWaterDog04	Portuguese Water Dog	PRJNA448733	SAMN08873222	F	18.812100000000001	19.065899999999999	0.986688275927179	Portuguese Water Dog 4	Portuguese Water Dog	100		yes	
+Portuguese Water Dog 5	PortugueseWaterDog05	Portuguese Water Dog	PRJNA448733	SAMN08873223	M	23.631900000000002	13.200900000000001	1.790173397268368	Portuguese Water Dog 5	Portuguese Water Dog	100		yes	
+Portuguese Water Dog 6	PortugueseWaterDog06	Portuguese Water Dog	PRJNA448733	SAMN08873224	F	15.8024	16.104500000000002	0.98124126796858013	Portuguese Water Dog 6	Portuguese Water Dog	100		yes	
+Portuguese Water Dog 7	PortugueseWaterDog07	Portuguese Water Dog	PRJNA448733	SAMN08873225	M	21.805900000000001	12.3352	1.7677783902976847	Portuguese Water Dog 7	Portuguese Water Dog	100		yes	
+Portuguese Water Dog 8	PortugueseWaterDog08	Portuguese Water Dog	PRJNA448733	SAMN08873226	M	19.688600000000001	10.9215	1.8027377191777687	Portuguese Water Dog 8	Portuguese Water Dog	100		yes	
+Portuguese Water Dog 9	PortugueseWaterDog09	Portuguese Water Dog	PRJNA448733	SAMN08873227	M	35.1449	19.726700000000001	1.7815904332706431	Portuguese Water Dog 9	Portuguese Water Dog	100		yes	yes
+Portuguese Water Dog 10	PortugueseWaterDog10	Portuguese Water Dog	PRJNA448733	SAMN08873228	M	15.700100000000001	8.8707499999999992	1.7698728968801964	Portuguese Water Dog 10	Portuguese Water Dog	100		yes	
+Portuguese Water Dog 11	PortugueseWaterDog11	Portuguese Water Dog	PRJNA448733	SAMN08873229	F	22.474	22.773	0.98687041672155629	Portuguese Water Dog 11	Portuguese Water Dog	100		yes	
+Pug 1	Pug01	Pug	PRJNA288568	SAMN03801678	M	4.9609399999999999	3.0331700000000001	1.6355627940405582	Pug 1	Pug	100				
+Pug 2	Pug02	Pug	PRJNA288568	SAMN03801679	M	5.1082799999999997	3.1234700000000002	1.6354503164749459	Pug 2	Pug	100				
+Pug 3	Pug03	Pug	PRJNA288568	SAMN03801680	M	9.2981099999999994	5.4778200000000004	1.6974106487617335	Pug 3	Pug	100				
+Pug 4	Pug04	Pug	PRJNA288568	SAMN03801681	F	7.5109300000000001	7.2037599999999999	1.0426402323231201	Pug 4	Pug	100				
+Pug 5	Pug05	Pug	PRJNA288568	SAMN03801682	M	15.197800000000001	8.6790500000000002	1.7510902690962722	Pug 5	Pug	100				
+Qingchuan Dog	QingchuanDog01	Qingchuan Dog	PRJNA232497	SAMN02485577	M	6.9549399999999997	4.0652499999999998	1.7108271324026814	Qingchuan Dog	outside Akita, Chow Chow and New Guinea Singing Dog clade	87	Breed not available for comparison			
+Red Wolf 1	Wolf25	Red Wolf	PRJNA255370	SAMN02921317	F	28.5001	15.8748	1.7953045077733263							Wolf (Red wolf 01)
+Red Wolf 2	Wolf26	Red Wolf	PRJNA255370	SAMN02921318	F	7.1248699999999996	7.1303599999999996	0.99923005290055478							Wolf (Red wolf 02)
+Rhodesian Ridgeback 1	RhodesianRidgeback01	Rhodesian Ridgeback	PRJNA288568	SAMN03801683	F	21.466899999999999	21.811	0.98422355692081975	Rhodesian Ridgeback 1	Rhodesian Ridgeback	100				
+Rhodesian Ridgeback 2	RhodesianRidgeback02	Rhodesian Ridgeback	PRJEB16012	SAMEA4504822	F	16.422000000000001	16.671500000000002	0.9850343400413879	Rhodesian Ridgeback 2	Rhodesian Ridgeback	100			
+Rhodesian Ridgeback 3	RhodesianRidgeback03	Rhodesian Ridgeback	PRJEB16012	SAMEA4505495	F	9.9983900000000006	9.8850700000000007	1.0114637529122201	Rhodesian Ridgeback 3	Rhodesian Ridgeback	100				
+Rhodesian Ridgeback 4	RhodesianRidgeback04	Rhodesian Ridgeback	PRJNA357866	SAMN06161404	F	24.147400000000001	24.472000000000001	0.98673586139261193	Rhodesian Ridgeback 4	Rhodesian Ridgeback	100				
+Rhodesian Ridgeback 5	RR098	Rhodesian Ridgeback	PRJEB16012	SAMEA104091554	F	26.924900000000001	27.179500000000001	0.99063264592799716	Rhodesian Ridgeback 5	Rhodesian Ridgeback	100				
+Rottweiler 1	165414_S20	Rottweiler	PRJNA448733	SAMN08873243	F	32.2988	31.665800000000001	1.0199900207795161	Rottweiler 1	Rottweiler	100			
+Rottweiler 2	168979_S18	Rottweiler	PRJNA448733	SAMN08873244	M	34.886099999999999	19.320900000000002	1.8056146452804991	Rottweiler 2	Rottweiler	100			
+Rottweiler 3	171515_S19	Rottweiler	PRJNA448733	SAMN08873245	M	32.479700000000001	17.7377	1.8311111361675978	Rottweiler 3	Rottweiler	100			
+Rottweiler 4	AND10232010_S17	Rottweiler	PRJNA448733	SAMN08873246	F	15.8649	15.795	1.0044254510921178	Rottweiler 4	Rottweiler	100			
+Rottweiler 5	LEW02122013_S15	Rottweiler	PRJNA448733	SAMN08873247	F	22.831499999999998	22.858899999999998	0.99880134214682248	Rottweiler 5	Rottweiler	100			
+Rottweiler 6	Rottweiler01	Rottweiler	PRJNA288568	SAMN03801684	F	39.207900000000002	39.945300000000003	0.98153975561580464	Rottweiler 6	Rottweiler	100		yes	yes	
+Rottweiler 7	Rottweiler02	Rottweiler	PRJEB7735	SAMEA3121337	M	12.9132	7.2914500000000002	1.771005767028506	Rottweiler 7	Rottweiler	100			
+Rottweiler 8	Rottweiler03	Rottweiler	PRJNA263947	SAMN03323674	F	29.142299999999999	29.462800000000001	0.98912187572124843	Rottweiler 8	Rottweiler	100			
+Rottweiler 9	Rottweiler04	Rottweiler	PRJNA448733	SAMN08873251	F	52.526899999999998	52.9223	0.9925286693888965	Rottweiler 9	Rottweiler	100				
+Rottweiler 10	WS42321902_S16	Rottweiler	PRJNA448733	SAMN08873252	F	29.0945	28.714200000000002	1.0132443181422432	Rottweiler 10	Rottweiler	100			
+Saint Bernard 1	SaintBernard01	Saint Bernard	PRJNA288568	SAMN03801685	F	40.895699999999998	41.767699999999998	0.97912262346262779	Saint Bernard 1	Saint Bernard	100		yes	yes	
+Saint Bernard 2	SaintBernard02	Saint Bernard	PRJNA263947	SAMN03580386	M	22.435700000000001	12.938000000000001	1.7340933683722368	Saint Bernard 2	Saint Bernard	100				
+Saluki 1	Saluki01	Saluki	PRJNA288568	SAMN03801686	F	66.479200000000006	68.055800000000005	0.97683371586257162	Saluki 1	Saluki	100		yes	yes	
+Saluki 2	Saluki02	Saluki	PRJNA288568	SAMN03801687	M	22.3201	12.6691	1.7617747117001208	Saluki 2	Saluki	100				
+Saluki 3	Saluki03	Saluki	PRJEB16012	SAMEA4504825	M	15.926600000000001	9.1261700000000001	1.7451570593140386	Saluki 3	Saluki	100			
+Samoyed 1	Samoyed01	Samoyed	PRJNA448733	SAMN08873258	F	51.371099999999998	52.716299999999997	0.97448227588051517	Samoyed 1	Samoyed	100		yes	yes	
+Samoyed 2	Samoyed02	Samoyed	PRJNA266585	SAMN03168388	F	17.796900000000001	18.147200000000002	0.98069674660553685	Samoyed 2	Samoyed	100				
+Scottish Deerhound	ScottishDeerhound01	Scottish Deerhound	PRJNA263947	SAMN03580401	M	25.1356	14.0654	1.7870519146273836	Scottish Deerhound	Scottish Deerhound	100				
+Scottish Terrier 1	ScottishTerrier01	Scottish Terrier	PRJNA288568	SAMN03801688	F	52.2791	52.569400000000002	0.99447777604461907	Scottish Terrier 1	Scottish Terrier	100		yes	yes	
+Scottish Terrier 2	ScottishTerrier02	Scottish Terrier	PRJNA448733	SAMN08873262	M	44.909199999999998	25.264800000000001	1.7775402932142743	Scottish Terrier 2	Scottish Terrier	100		yes	yes
+Scottish Terrier 3	ScottishTerrier03	Scottish Terrier	PRJNA263947	SAMN03580394	F	36.1374	36.020899999999997	1.0032342334589086	Scottish Terrier 3	Scottish Terrier	100				
+Scottish Terrier 4	ScottishTerrier04	Scottish Terrier	PRJNA448733	SAMN08873264	F	24.256	24.439699999999998	0.99248354112366366	Scottish Terrier 4	Scottish Terrier	100				
+Shetland Sheepdog 1	SS004	Shetland Sheepdog	PRJEB16012	SAMEA104091573	F	37.912599999999998	37.6584	1.0067501540161026	Shetland Sheepdog 1	Shetland Sheepdog	100				
+Shetland Sheepdog 2	ShetlandSheepdog01	Shetland Sheepdog	PRJNA448733	SAMN08873266	F	44.856200000000001	45.790599999999998	0.97959406515747782	Shetland Sheepdog 2	Shetland Sheepdog	100		yes	yes	
+Shetland Sheepdog 3	ShetlandSheepdog02	Shetland Sheepdog	PRJNA263947	SAMN03580413	M	27.922000000000001	15.662599999999999	1.7827180672429865	Shetland Sheepdog 3	Shetland Sheepdog	100				
+Shiba Inu 1	CFA.107839	Shiba Inu	PRJNA263947	SAMN05770194	F	37.550800000000002	37.3872	1.0043758291607823	Shiba Inu 1	Shiba Inu	100				
+Shiba Inu 2	ShibaInu01	Shiba Inu	PRJNA263947	SAMN04196861	M	25.769200000000001	14.7056	1.7523392449135025	Shiba Inu 2	Shiba Inu	100				
+Shih Tzu	PER00751	Shih Tzu	PRJNA448733	SAMN08873270	M	17.637699999999999	11.2493	1.5678931133492751	Shih Tzu	Shih Tzu	100				
+Siberian Husky 1	SiberianHusky01	Siberian Husky	PRJNA288568	SAMN03801690	F	64.259	64.564800000000005	0.99526367308502461	Siberian Husky 1	Siberian Husky	100		yes	yes	
+Siberian Husky 2	SiberianHusky02	Siberian Husky	PRJEB10823	SAMEA3539249	M	19.208200000000001	10.8659	1.7677504854636985	Siberian Husky 2	Siberian Husky	100			
+Siberian Husky 3	SiberianHusky04	Siberian Husky	PRJNA266585	SAMN03168389	M	18.241299999999999	10.443199999999999	1.7467155661100047	Siberian Husky 3	Siberian Husky	100				
+Siberian Husky 4	SY046	Siberian Husky	PRJEB16012	SAMEA104091559	M	27.792400000000001	15.411199999999999	1.803389742524917	Siberian Husky 4	Siberian Husky	100				
+Sloughi 1	Sloughi02	Sloughi	PRJEB16012	SAMEA4506885	M	26.482700000000001	14.982200000000001	1.7676108982659422	Sloughi 1	Sloughi	100				Dam (Sloughi01) and Sire (Sloughi03) sequenced
+Sloughi 2	Sloughi01	Sloughi	PRJEB13468	SAMEA3928143	F	21.424099999999999	21.228400000000001	1.0092187823858605	Sloughi 2	Sloughi	100				Dam of Sloughi02
+Sloughi 3	Sloughi03	Sloughi	PRJEB16012	SAMEA4506888	M	19.378499999999999	10.9558	1.7687891345223534	Sloughi 3	Sloughi	100				Sire of Sloughi02
+Sloughi 4	Sloughi04	Sloughi	PRJNA266585	SAMN03168392	M	20.631599999999999	11.715400000000001	1.7610666302473665	Sloughi 4	Sloughi	100				
+Soft Coated Wheaten Terrier 1	SoftCoatedWheatenTerrier01	Soft Coated Wheaten Terrier	PRJNA263947	SAMN03323670	F	19.752400000000002	19.308599999999998	1.0229845768206915	Soft Coated Wheaten Terrier 1	Soft Coated Wheaten Terrier	100			
+Soft Coated Wheaten Terrier 2	SoftCoatedWheatenTerrier02	Soft Coated Wheaten Terrier	PRJNA263947	SAMN03323671	M	11.6195	6.4729099999999997	1.7950967957224804	Soft Coated Wheaten Terrier 2	Soft Coated Wheaten Terrier	100			
+Soft Coated Wheaten Terrier 3	SoftCoatedWheatenTerrier03	Soft Coated Wheaten Terrier	PRJNA263947	SAMN03580410	F	18.651700000000002	18.691600000000001	0.99786535128078924	Soft Coated Wheaten Terrier 3	Soft Coated Wheaten Terrier	100				
+Soft Coated Wheaten Terrier 4	SoftCoatedWheatenTerrier04	Soft Coated Wheaten Terrier	PRJNA263947	SAMN03580411	F	18.540500000000002	18.6675	0.99319673228873717	Soft Coated Wheaten Terrier 4	Soft Coated Wheaten Terrier	100				
+Spanish Galgo	SpanishGalgo01	Spanish Galgo	PRJNA266585	SAMN03168380	F	19.136399999999998	19.2943	0.99181623588313639	Spanish Galgo	with UK Sighthound Clade	64	Breed not available for comparison			
+Spanish Water Dog	SpanishWaterDog01	Spanish Water Dog	PRJEB7903	SAMEA3164479	M	15.863200000000001	8.9436599999999995	1.7736810209690441	Spanish Water Dog	outside Mini/Toy Poodle clade	23	Breed not available for comparison		
+Spinone Italiano	CFA.109669	Spinone Italiano	PRJNA263947	SAMN06159677	F	48.710099999999997	48.329599999999999	1.0078730219161756	Spinone Italiano	Spinone Italiano	100				
+Standard Poodle 1	CFA.107842	Standard Poodle	PRJNA263947	SAMN06159675	F	44.750799999999998	44.449399999999997	1.00678074394705	Standard Poodle 1	Standard Poodle	100				
+Standard Poodle 2	StandardPoodle01	Standard Poodle	PRJNA288568	SAMN03801691	F	13.6478	13.9809	0.97617463825647843	Standard Poodle 2	Standard Poodle	100				
+Standard Poodle 3	StandardPoodle02	Standard Poodle	PRJNA263947	SAMN03580380	M	22.928899999999999	12.8291	1.7872570951976365	Standard Poodle 3	Standard Poodle	100				
+Standard Poodle 4	StandardPoodle03	Standard Poodle	PRJNA263947	SAMN03580408	M	22.432200000000002	12.674099999999999	1.7699244916798829	Standard Poodle 4	Standard Poodle	100				
+Standard Schnauzer 1	CFA.107834	Standard Schnauzer	PRJNA263947	SAMN06159669	M	40.973300000000002	22.668199999999999	1.8075233145993066	Standard Schnauzer 1	Standard Schnauzer	100				
+Standard Schnauzer 2	CFA.118001	Standard Schnauzer	PRJNA263947	SAMN06159687	M	38.412799999999997	21.165199999999999	1.8149037098633607	Standard Schnauzer 2	Standard Schnauzer	100				
+Standard Schnauzer 3	CFA.118002	Standard Schnauzer	PRJNA263947	SAMN06159688	F	38.576099999999997	38.121099999999998	1.0119356471875156	Standard Schnauzer 3	Standard Schnauzer	100				
+Standard Schnauzer 4	StandardSchnauzer01	Standard Schnauzer	PRJNA263947	SAMN03323676	M	17.406700000000001	9.7394499999999997	1.7872364455898435	Standard Schnauzer 4	Standard Schnauzer	100			
+Swedish Lapphund	SwedishLapphund01	Swedish Lapphund	PRJNA266585	SAMN03168387	F	18.529399999999999	18.8429	0.98336243359567788	Swedish Lapphund	outside Finnish Spitz clade	78	Breed not available for comparison			
+Tibetan Mastiff	TibetanMastiff01	Tibetan Mastiff	PRJNA192935	SAMN01974493	M	13.543799999999999	7.6468499999999997	1.7711606740030208	Tibetan Mastiff	Tibetan Mastiff	100				
+Tibetan Mastiff - China 1	TibetanMastiff02	Tibetan Mastiff - China	PRJNA233638	SAMN02570458	M	16.368099999999998	9.3770900000000008	1.745541527275519	Tibetan Mastiff - China 1	Tibetan Mastiff	100				
+Tibetan Mastiff - China 2	TibetanMastiff03	Tibetan Mastiff - China	PRJNA233638	SAMN02585152	F	14.650399999999999	14.9079	0.98272727882532074	Tibetan Mastiff - China 2	Tibetan Mastiff	100				
+Tibetan Mastiff - China 3	TibetanMastiff04	Tibetan Mastiff - China	PRJNA233638	SAMN02585153	F	14.9382	15.305400000000001	0.97600846759967064	Tibetan Mastiff - China 3	Tibetan Mastiff	100				
+Tibetan Mastiff - China 4	TibetanMastiff05	Tibetan Mastiff - China	PRJNA233638	SAMN02585154	F	14.245100000000001	14.5909	0.9763002967603096	Tibetan Mastiff - China 4	Tibetan Mastiff	100				
+Tibetan Mastiff - China 5	TibetanMastiff06	Tibetan Mastiff - China	PRJNA233638	SAMN02585155	M	15.266500000000001	8.6400900000000007	1.7669376129183838	Tibetan Mastiff - China 5	Tibetan Mastiff	100				
+Tibetan Mastiff - China 6	TibetanMastiff07	Tibetan Mastiff - China	PRJNA233638	SAMN02585156	M	15.860300000000001	8.9631699999999999	1.7694967293937303	Tibetan Mastiff - China 6	Tibetan Mastiff	100				
+Tibetan Mastiff - China 7	TibetanMastiff08	Tibetan Mastiff - China	PRJNA233638	SAMN02585157	F	16.9161	17.164899999999999	0.98550530442938789	Tibetan Mastiff - China 7	Tibetan Mastiff	100				
+Tibetan Mastiff - China 8	TibetanMastiff09	Tibetan Mastiff - China	PRJNA233638	SAMN02585158	F	15.0566	15.3657	0.97988376709163916	Tibetan Mastiff - China 8	Tibetan Mastiff	100				
+Tibetan Mastiff - China 9	TibetanMastiff10	Tibetan Mastiff - China	PRJNA233638	SAMN02585159	F	16.9573	17.271100000000001	0.98183091986034465	Tibetan Mastiff - China 9	Tibetan Mastiff	100				
+Tibetan Mastiff - China 10	TibetanMastiff11	Tibetan Mastiff - China	PRJNA233638	SAMN02585160	F	16.982600000000001	17.131599999999999	0.99130262205514974	Tibetan Mastiff - China 10	Tibetan Mastiff	100				
+Tibetan Terrier 1	TibetanTerrier01	Tibetan Terrier	PRJNA263947	SAMN03580403	M	27.7149	15.730700000000001	1.7618351376607524	Tibetan Terrier 1	Tibetan Terrier	100				
+Tibetan Terrier 2	TibetanTerrier02	Tibetan Terrier	PRJNA263947	SAMN03580406	M	23.646000000000001	13.2996	1.7779482089686909	Tibetan Terrier 2	Tibetan Terrier	100				
+Tornjak	Tornjak01	Tornjak	PRJNA232497	SAMN02485567	M	6.55471	3.9997799999999999	1.6387676322197722	Tornjak	outside clade	not significant	Breed not available for comparison			
+Toy Poodle	ToyPoodle01	Toy Poodle	PRJNA288568	SAMN03801692	F	55.097299999999997	55.697800000000001	0.98921860468456557	Toy Poodle	Mini/Toy Poodle	100		yes	yes	
+UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	VillDog_China17	UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	PRJNA233638	SAMN02585198	M	14.684100000000001	8.2865599999999997	1.7720380954219848	Kunming Dog 8	Belgian Malinois	88	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	VillDog_China18	UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	PRJNA233638	SAMN02585199	M	14.939399999999999	8.5077700000000007	1.7559713062294817	Kunming Dog 9	Belgian Malinois	88	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	VillDog_China19	UNKNOWN - Entered into SRA as Kunming Dog but clusters with Belgian Malinois	PRJNA233638	SAMN02585200	M	17.423500000000001	9.9180100000000007	1.7567536229546048	Kunming Dog 10	Belgian Malinois	88	Breed not available for comparison			Mislabeled originally as Village Dog - China, but submitted to SRA as Kunming Dog
+UNKNOWN - Marked American Staffordshire Terrier and clusters with Staffordshire Bull Terriers - Possible Mixed Breed	UnknownBreed09	UNKNOWN - Marked American Staffordshire Terrier and clusters with Staffordshire Bull Terriers - Possible Mixed Breed	PRJEB16012	SAMEA4504831	M	7.7097899999999999	4.3921700000000001	1.7553487228408735	UNKNOWN - Marked American Staffordshire Terrier and clusters with Staffordshire Bull Terriers - Possible Mixed Breed	Staffordshire Terrier	100				
+UNKNOWN - Marked as Kunming Dog but clusters outside Kunming Dog and German Shepherd Dog clade	KunmingDog01	UNKNOWN - Marked as Kunming Dog but clusters outside Kunming Dog and German Shepherd Dog clade	PRJNA232497	SAMN02485579	M	7.7128500000000004	4.4637799999999999	1.7278741335818524	Kunming Dog 11	outside Kunming Dog and German Shepherd Dog clades	100	Breed not available for comparison			
+UNKNOWN - Marked Unknown breed but clusters with Shih Tzu	406434N	UNKNOWN - Marked Unknown breed but clusters with Shih Tzu	PRJNA203084	SAMN02144216	F	24.839500000000001	25.651599999999998	0.96834115610722149	Unknown dog 1	Shih Tzu	100			
+UNKNOWN - Marked Basset Hound but doesn't cluster completely, possible mixed breed	BH003	UNKNOWN - Marked Basset Hound but doesn't cluster completely, possible mixed breed	PRJEB16012	SAMEA4509488	F	24.360499999999998	24.5061	0.99405862213897755	Unknown dog 2	outside Basset Hound clade	70				
+UNKNOWN - Marked Jack Russell Terrer but outside Lakeland Terrier, Smooth Fox Terrier and Wire Fox Terrier clade	JR0034	UNKNOWN - Marked Jack Russell Terrer but outside Lakeland Terrier, Smooth Fox Terrier and Wire Fox Terrier clade	PRJEB16012	SAMEA104125119	M	32.190899999999999	17.901599999999998	1.7982135675023463	Unknown dog 3	outside Lakeland Terrier, Smooth Fox Terrier and Wire Fox Terrier clade	100				
+UNKNOWN - Marked Border Collie but clusters outside Toy Spaniel clade	UnknownBreed02	UNKNOWN - Marked Border Collie but clusters outside Toy Spaniel clade	PRJNA448733	SAMN08873318	F	10.386799999999999	10.562200000000001	0.98339361117948898	Unknown dog 4	outside Toy Spaniel clade	100				Possible mixed read groups (lanes) within BAMs for UnknownBreed02 and UnknownBreed10; One of six BAM file that needed to be remade after making 722g VCF - Slight diffences in genotypes in 722g VCF compared to a joint call of the 6g for a subset of Illumina SNPchip SNPs (21 out of 103464 tested for 0.02% discordance)
+UNKNOWN - Marked Portuguese Pointer and clusters with Dogue De Bordeaux	UnknownBreed03	UNKNOWN - Marked Portuguese Pointer and clusters with Dogue De Bordeaux	PRJNA448733	SAMN08873319	F	10.417299999999999	8.8343900000000009	1.1791759249931233	Unknown dog 5	outside Dogue De Bordeaux clade	54				Possible mixed read groups (lanes) within BAMs for UnknownBreed03 and UnknownBreed07
+UNKNOWN - Marked Bassett Hound but clusters with Xiasi/Chongqing dogs outside of the Chow Chow clade	UnknownBreed04	UNKNOWN - Marked Bassett Hound but clusters with Xiasi/Chongqing dogs outside of the Chow Chow clade	PRJNA232497	SAMN02485573	F	6.4671700000000003	6.5287899999999999	0.99056180394835802	Unknown dog 6	groups with Xiasi/Chongqing outside Chow Chow clade	100				Mislabeled orginally as Basset Hound but submitted to SRA as Villiage Dog - China
+UNKNOWN - Marked Australian Terrier and clusters with Clumber Spaniels - Possible Mixed Breed	UnknownBreed05	UNKNOWN - Marked Australian Terrier and clusters with Clumber Spaniels - Possible Mixed Breed	PRJNA448733	SAMN08873321	M	7.6333500000000001	4.4642900000000001	1.7098687585259917	Unknown dog 7	outside Clumber Spaniel clade	100			
+UNKNOWN - Marked Dogue De Bordeaux but doesn't cluster completely, possible mixed breed 	UnknownBreed07	UNKNOWN - Marked Dogue De Bordeaux but doesn't cluster completely, possible mixed breed 	PRJNA448733	SAMN08873322	F	7.4894400000000001	7.7049200000000004	0.97203345394890528	Unknown dog 8	outside Dogue De Bordeaux clade	54				Possible mixed read groups (lanes) within BAMs for UnknownBreed03 and UnknownBreed07
+UNKNOWN - Marked Cavalier King Charles Spaniel but clusters outside Toy Spaniel clade	UnknownBreed10	UNKNOWN - Marked Cavalier King Charles Spaniel but clusters outside Toy Spaniel clade	PRJNA448733	SAMN08873323	F	11.437099999999999	11.612500000000001	0.98489558665231414	Unknown dog 9	outside Toy Spaniel clade	100				Possible mixed read groups (lanes) within BAMs for UnknownBreed02 and UnknownBreed10
+UNKNOWN - Marked Australian Shepherd but clusters with Australian Cattle Dog	UnknownBreed11	UNKNOWN - Marked Australian Shepherd but clusters with Australian Cattle Dog	PRJNA263947	SAMN04196851	F	23.036100000000001	23.0855	0.99786012865218432	Unknown dog 10	outside Austrailian Cattle Dog clade	100			
+UNKNOWN - Marked Unknown clusters near Great Pyrenees	UnknownBreed12	UNKNOWN - Marked Unknown clusters near Great Pyrenees	PRJNA299099	SAMN04195504	M	31.558900000000001	17.736000000000001	1.7793696436626072	Unknown dog 11	outside Great Pyrenees	100				
+UNKNOWN - Marked Unknown clusters near German Shepherd Dog	UnknownBreed13	UNKNOWN - Marked Unknown clusters near German Shepherd Dog	PRJNA299099	SAMN04195507	M	29.147400000000001	16.229700000000001	1.7959296844673653	Unknown dog 12	outside German Shepherd Dog clade	100				
+UNKNOWN - Marked Unknown breed but clusters with American Staffordshire Terrier	WGS-76N	UNKNOWN - Marked Unknown breed but clusters with American Staffordshire Terrier	PRJNA203084	SAMN02144217	F	5.2147100000000002	4.5354099999999997	1.1497769771641375	Unknown dog 13	American Staffordshire Terrier	100			
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	AF14-170_S13	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873328	M	12.6708	7.1624600000000003	1.7690569999692842	Unknown dog 14	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	AF14-259_S12	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873329	M	7.3600099999999999	4.2619400000000001	1.7269154422633823	Unknown dog 15	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	AF14-260_S7	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873330	F	7.7252000000000001	8.0297800000000006	0.96206869926697858	Unknown dog 16	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	AF14-296_S9	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873331	M	9.6096800000000009	5.5137900000000002	1.7428447583241293	Unknown dog 17	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	AF14-297_S10	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873332	M	7.5406199999999997	4.3685400000000003	1.7261190237470641	Unknown dog 18	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	AF15-019_S2	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873333	M	5.7190899999999996	3.4289999999999998	1.6678594342373869	Unknown dog 19	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	AF15-074_S4	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873334	M	4.4741400000000002	2.7633899999999998	1.6190765689967759	Unknown dog 20	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	AF15-098_S11	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873335	M	9.5089799999999993	5.3718899999999996	1.7701367675064084	Unknown dog 21	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	NA13-359_S6	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873336	M	5.3660699999999997	3.4484499999999998	1.5560817178732473	Unknown dog 22	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	NA14-125_S8	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873337	M	8.9915500000000002	5.15151	1.7454202748320395	Unknown dog 23	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	NA14-126_S5	UNKNOWN - Marked Wirehaired Pointing Griffon but clusters with German Wirehaired Pointer	PRJNA448733	SAMN08873338	F	8.7923600000000004	8.9686800000000009	0.98034047373749533	Unknown dog 24	with German Wirehaired Pointer clade	100				
+UNKNOWN - Marked Yorkshire Terrier but clusters with Silky Terrier	BAN00143	UNKNOWN - Marked Yorkshire Terrier but clusters with Silky Terrier	PRJNA448733	SAMN08873339	F	12.042299999999999	12.3399	0.97588311088420476	Unknown dog 25	Silky Terrier	100				
+Vietnamese Indigenous Dog 1	IndigenousDogVietnam01	Vietnamese Indigenous Dog	PRJNA266585	SAMN03168368	M	18.491700000000002	9.7931399999999993	1.8882299242122551							
+Vietnamese Indigenous Dog 2	IndigenousDogVietnam02	Vietnamese Indigenous Dog	PRJNA266585	SAMN03168369	M	19.347100000000001	10.242699999999999	1.8888671932205379							
+Vietnamese Indigenous Dog 3	IndigenousDogVietnam03	Vietnamese Indigenous Dog	PRJNA266585	SAMN03168370	M	16.700700000000001	8.6040700000000001	1.9410232599223392							
+Vietnamese Indigenous Dog 4	IndigenousDogVietnam04	Vietnamese Indigenous Dog	PRJNA266585	SAMN03168371	M	19.980699999999999	11.0968	1.8005821498089538							
+Vietnamese Indigenous Dog 5	IndigenousDogVietnam05	Vietnamese Indigenous Dog	PRJNA266585	SAMN03168372	F	19.484999999999999	19.428999999999998	1.0028822893612641							
+Village Dog - Aboriginal Camp Dog	VillDog_Australia01	Village Dog - Aboriginal Camp Dog	PRJEB2162	SAMEA1521940	F	24.0154	23.696400000000001	1.0134619604665687							
+Village Dog - Borneo 1	VillDog_Borneo01	Village Dog - Borneo	PRJNA232497	SAMN02485592	M	5.3195300000000003	3.2409300000000001	1.6413591160561938							
+Village Dog - Borneo 2	VillDog_Borneo02	Village Dog - Borneo	PRJNA232497	SAMN02485593	F	6.9623499999999998	7.1793500000000003	0.96977442247557222							
+Village Dog - Borneo 3	VillDog_Borneo03	Village Dog - Borneo	PRJNA232497	SAMN02485594	M	5.5821500000000004	3.5114999999999998	1.5896767763064219							
+Village Dog - China 1	VillDog_China09	Village Dog - China	PRJNA232497	SAMN02485581	F	7.4072699999999996	7.4980900000000004	0.98788758203755878							
+Village Dog - China 2	VillDog_China01	Village Dog - China	PRJNA192935	SAMN01974490	F	20.378799999999998	20.081299999999999	1.0148147779277237							
+Village Dog - China 3	VillDog_China02	Village Dog - China	PRJNA192935	SAMN01974491	F	15.152200000000001	15.7616	0.96133641254694957							
+Village Dog - China 4	VillDog_China03	Village Dog - China	PRJNA192935	SAMN01974492	F	10.418200000000001	10.1776	1.0236401509196669							
+Village Dog - China 5	VillDog_China04	Village Dog - China	PRJNA232497	SAMN02485568	F	7.0626100000000003	7.1066099999999999	0.99380858102527092							
+Village Dog - China 6	VillDog_China05	Village Dog - China	PRJNA232497	SAMN02485569	M	7.6962200000000003	4.4452100000000003	1.7313512747429254							
+Village Dog - China 7	VillDog_China06	Village Dog - China	PRJNA232497	SAMN02485570	M	7.5269500000000003	4.3513200000000003	1.7298084259489075							
+Village Dog - China 8	VillDog_China07	Village Dog - China	PRJNA232497	SAMN02485571	F	6.99735	7.0659999999999998	0.99028446079818855							
+Village Dog - China 9	VillDog_China08	Village Dog - China	PRJNA232497	SAMN02485576	F	7.6793399999999998	7.6975899999999999	0.99762912807774895							
+Village Dog - China 10	VillDog_China20	Village Dog - China	PRJNA233638	SAMN02585181	M	17.1845	9.6398899999999994	1.7826448227106326							
+Village Dog - China 11	VillDog_China21	Village Dog - China	PRJNA233638	SAMN02585182	M	15.379200000000001	8.5764200000000006	1.7931957623344006							
+Village Dog - China 12	VillDog_China22	Village Dog - China	PRJNA233638	SAMN02585183	F	14.9831	15.205	0.98540611640907594							
+Village Dog - China 13	VillDog_China23	Village Dog - China	PRJNA233638	SAMN02585184	M	15.232200000000001	8.5889199999999999	1.773470936974614							
+Village Dog - China 14	VillDog_China24	Village Dog - China	PRJNA233638	SAMN02585185	F	14.750400000000001	14.7895	0.99735623246221983							
+Village Dog - China 15	VillDog_China25	Village Dog - China	PRJNA233638	SAMN02585186	F	15.623200000000001	15.8063	0.98841601133725165							
+Village Dog - China 16	VillDog_China26	Village Dog - China	PRJNA233638	SAMN02585187	M	15.4322	8.8086199999999995	1.7519429831233497							
+Village Dog - China 17	VillDog_China27	Village Dog - China	PRJNA233638	SAMN02585188	M	15.818300000000001	9.0102700000000002	1.7555855706876708							
+Village Dog - China 18	VillDog_China28	Village Dog - China	PRJNA233638	SAMN02585189	F	15.786799999999999	16.0184	0.98554162712880189							
+Village Dog - China 19	VillDog_China29	Village Dog - China	PRJNA233638	SAMN02585190	F	16.536300000000001	16.711500000000001	0.98951620141818508							
+Village Dog - China 20	VillDog_China30	Village Dog - China	PRJNA233638	SAMN02585171	M	17.546700000000001	10.0326	1.7489683631361761							
+Village Dog - China 21	VillDog_China31	Village Dog - China	PRJNA233638	SAMN02585172	M	17.238800000000001	9.8587900000000008	1.748571579270884							
+Village Dog - China 22	VillDog_China32	Village Dog - China	PRJNA233638	SAMN02585173	F	16.637799999999999	16.944299999999998	0.98191132121126279							
+Village Dog - China 23	VillDog_China33	Village Dog - China	PRJNA233638	SAMN02585174	F	14.560600000000001	14.6822	0.99171786244568261							
+Village Dog - China 24	VillDog_China34	Village Dog - China	PRJNA233638	SAMN02585175	F	16.108499999999999	16.5639	0.97250647492438369							
+Village Dog - China 25	VillDog_China35	Village Dog - China	PRJNA233638	SAMN02585176	F	16.072700000000001	16.201899999999998	0.99202562662403804							
+Village Dog - China 26	VillDog_China36	Village Dog - China	PRJNA233638	SAMN02585177	F	13.810499999999999	13.7677	1.0031087254951807							
+Village Dog - China 27	VillDog_China37	Village Dog - China	PRJNA233638	SAMN02585178	M	16.409300000000002	9.2965999999999998	1.7650861605318076							
+Village Dog - China 28	VillDog_China38	Village Dog - China	PRJNA233638	SAMN02585179	M	16.956399999999999	9.7531700000000008	1.7385526962003119							
+Village Dog - China 29	VillDog_China39	Village Dog - China	PRJNA233638	SAMN02585180	M	16.2836	9.39696	1.73285828608401							
+Village Dog - China 30	VillDog_China40	Village Dog - China	PRJNA233638	SAMN02585161	F	16.866	17.186699999999998	0.98134022238125995							
+Village Dog - China 31	VillDog_China41	Village Dog - China	PRJNA233638	SAMN02585162	F	17.517199999999999	17.7471	0.98704577085833733							
+Village Dog - China 32	VillDog_China42	Village Dog - China	PRJNA233638	SAMN02585163	F	15.392799999999999	15.7378	0.97807825744386123							
+Village Dog - China 33	VillDog_China43	Village Dog - China	PRJNA233638	SAMN02585164	F	16.002099999999999	16.273800000000001	0.98330445255564147							
+Village Dog - China 34	VillDog_China44	Village Dog - China	PRJNA233638	SAMN02585165	F	16.777899999999999	16.999400000000001	0.98697012835747133							
+Village Dog - China 35	VillDog_China45	Village Dog - China	PRJNA233638	SAMN02585166	F	14.1218	14.343400000000001	0.98455038554317664							
+Village Dog - China 36	VillDog_China46	Village Dog - China	PRJNA233638	SAMN02585167	M	17.244199999999999	9.8111499999999996	1.7576125122946851							
+Village Dog - China 37	VillDog_China47	Village Dog - China	PRJNA233638	SAMN02585168	M	13.5221	7.7356100000000003	1.7480327989647875							
+Village Dog - China 38	VillDog_China48	Village Dog - China	PRJNA233638	SAMN02585169	F	15.210699999999999	15.3963	0.98794515565428054							
+Village Dog - China 39	VillDog_China49	Village Dog - China	PRJNA233638	SAMN02585170	M	16.6416	9.4960699999999996	1.7524723385568979							
+Village Dog - China 40	VillDog_China50	Village Dog - China	PRJNA232497	SAMN04851103	M	11.659000000000001	7.0579999999999998	1.6518843865117598							
+Village Dog - China 41	VillDog_China51	Village Dog - China	PRJNA232497	SAMN02485575	M	6.9574299999999996	4.0615300000000003	1.71300716724978						
+Village Dog - China 42	VillDog_China52	Village Dog - China	PRJNA232497	SAMN02485572	F	7.7339399999999996	7.8578999999999999	0.98422479288359477						
+Village Dog - Egypt 1	VillDog_Egypt01	Village Dog - Egypt	PRJNA232497	SAMN02485582	M	8.3982500000000009	4.91195	1.7097588534085242							
+Village Dog - Egypt 2	VillDog_Egypt02	Village Dog - Egypt	PRJNA232497	SAMN02485583	M	7.4497400000000003	4.3837799999999998	1.6993872867707778							
+Village Dog - India 1	VillDog_India01	Village Dog - India	PRJNA232497	SAMN02485586	M	13.6318	7.8579299999999996	1.7347825699643546							
+Village Dog - India 2	VillDog_India02	Village Dog - India	PRJNA232497	SAMN02485587	M	7.7398699999999998	4.5779199999999998	1.6906957745002098							
+Village Dog - India 3	VillDog_India03	Village Dog - India	PRJNA232497	SAMN02485588	M	10.038500000000001	5.7780100000000001	1.7373628636849021							
+Village Dog - India 4	VillDog_India04	Village Dog - India	PRJNA232497	SAMN02485590	M	14.006500000000001	8.12974	1.7228718261592624							
+Village Dog - India 5	VillDog_India05	Village Dog - India	PRJNA232497	SAMN02485591	F	8.1630800000000008	8.4999800000000008	0.96036461262261796							
+Village Dog - Lebanon 1	VillDog_Lebanon01	Village Dog - Lebanon	PRJNA232497	SAMN02485595	M	7.7841100000000001	4.6073599999999999	1.6894946346714823							
+Village Dog - Lebanon 2	VillDog_Lebanon02	Village Dog - Lebanon	PRJNA232497	SAMN02485596	M	9.3397100000000002	5.47302	1.7065002503188369							
+Village Dog - Lebanon 3	VillDog_Lebanon03	Village Dog - Lebanon	PRJNA232497	SAMN02485597	F	9.6773399999999992	10.0542	0.96251715700901108							
+Village Dog - Namibia 1	VillDog_Namibia01	Village Dog - Namibia	PRJNA232497	SAMN02485598	M	8.1965800000000009	4.8212200000000003	1.7001049526883238							
+Village Dog - Namibia 2	VillDog_Namibia02	Village Dog - Namibia	PRJNA232497	SAMN02485599	F	14.0975	14.3337	0.98352135177937305							
+Village Dog - Namibia 3	VillDog_Namibia03	Village Dog - Namibia	PRJNA232497	SAMN02485600	M	7.2272400000000001	4.2945599999999997	1.6828825304571366							
+Village Dog - Papua New Guinea 1	VillDog_PapuaNG01	Village Dog - Papua New Guinea	PRJNA232497	SAMN02485601	F	6.6821599999999997	6.8901500000000002	0.96981342931576231							
+Village Dog - Papua New Guinea 2	VillDog_PapuaNG02	Village Dog - Papua New Guinea	PRJNA232497	SAMN02485602	F	6.3856599999999997	6.4225700000000003	0.99425307937476737							
+Village Dog - Papua New Guinea 3	VillDog_PapuaNG03	Village Dog - Papua New Guinea	PRJNA232497	SAMN02485603	M	12.1304	7.1816899999999997	1.68907318472393							
+Village Dog - Portugal 1	PT49	Village Dog - Portugal	PRJNA232497	SAMN04851101	M	15.2057	8.6874000000000002	1.7503165504063356							
+Village Dog - Portugal 2	VillDog_Portugal01	Village Dog - Portugal	PRJNA232497	SAMN02485604	F	17.6645	17.950800000000001	0.98405085010138815							
+Village Dog - Portugal 3	VillDog_Portugal02	Village Dog - Portugal	PRJNA232497	SAMN02485605	M	14.714399999999999	8.45397	1.7405313716514252							
+Village Dog - Qatar 1	VillDog_Qatar01	Village Dog - Qatar	PRJNA232497	SAMN02485606	F	12.4428	12.818300000000001	0.9707059438459078							
+Village Dog - Qatar 2	VillDog_Qatar02	Village Dog - Qatar	PRJNA232497	SAMN02485607	M	6.7432800000000004	4.0995799999999996	1.6448709379985269							
+Village Dog - Sub-Saharan Africa	VillDog_Africa01	Village Dog - Sub-Saharan Africa	PRJNA232497	SAMN04851104	F	8.6550600000000006	8.7783700000000007	0.98595297304624885							
+Village Dog - Taiwan	VillDog_Taiwan01	Village Dog - Taiwan	PRJNA232497	SAMN02485608	F	14.702299999999999	14.8825	0.98789181925079783							
+Village Dog - Vietnam 1	VillDog_Vietnam01	Village Dog - Vietnam	PRJNA232497	SAMN02485609	F	10.210800000000001	10.5722	0.96581600802103629							
+Village Dog - Vietnam 2	VillDog_Vietnam02	Village Dog - Vietnam	PRJNA232497	SAMN02485610	F	7.8641199999999998	8.16296	0.96339073081333237							
+Village Dog - Vietnam 3	VillDog_Vietnam03	Village Dog - Vietnam	PRJNA232497	SAMN02485611	M	9.5502099999999999	5.5102500000000001	1.7331718161607912							
+Village Dog - Vietnam 4	VillDog_Vietnam04	Village Dog - Vietnam	PRJNA232497	SAMN02485612	F	9.3134800000000002	9.6109600000000004	0.96904783705269815							
+Village Dog - Vietnam 5	VillDog_Vietnam05	Village Dog - Vietnam	PRJNA232497	SAMN02485613	M	9.4817900000000002	5.5373000000000001	1.7123489787441533							
+Village Dog - Vietnam 6	VillDog_Vietnam06	Village Dog - Vietnam	PRJNA232497	SAMN02485614	M	6.70974	4.0208599999999999	1.6687325597011584							
+Vizsla	Vizsla01	Vizsla	PRJEB12339	SAMEA3724570	F	32.235100000000003	32.698900000000002	0.98581603662508532	Vizsla	Vizsla	100				
+Weimaraner	WE006	Weimaraner	PRJEB16012	SAMEA4506902	F	23.985099999999999	24.331900000000001	0.98574710565142876	Weimaraner	Weimaraner	100				
+West Highland White Terrier 1	WestHighlandWhiteTerr01	West Highland White Terrier	PRJNA288568	SAMN03801693	F	12.0722	12.369300000000001	0.97598085582854321	West Highland White Terrier 1	West Highland White Terrier	100				
+West Highland White Terrier 2	WestHighlandWhiteTerr02	West Highland White Terrier	PRJNA448733	SAMN08873423	F	45.2258	46.172499999999999	0.97949645351670367	West Highland White Terrier 2	West Highland White Terrier	100		yes	yes
+West Highland White Terrier 3	WestHighlandWhiteTerr03	West Highland White Terrier	PRJNA263947	SAMN03580395	M	37.088200000000001	20.666399999999999	1.7946134788835986	West Highland White Terrier 3	West Highland White Terrier	100				
+West Highland White Terrier 4	WestHighlandWhiteTerr04	West Highland White Terrier	PRJNA263947	SAMN03580396	F	36.279000000000003	36.066299999999998	1.0058974721554472	West Highland White Terrier 4	West Highland White Terrier	100				
+West Highland White Terrier 5	WestHighlandWhiteTerr05	West Highland White Terrier	PRJNA263947	SAMN03580397	F	34.654200000000003	34.4604	1.0056238465020719	West Highland White Terrier 5	West Highland White Terrier	100				
+West Highland White Terrier 6	WestHighlandWhiteTerr06	West Highland White Terrier	PRJNA263947	SAMN03580398	F	37.0259	35.933599999999998	1.0303977335975243	West Highland White Terrier 6	West Highland White Terrier	100				
+West Highland White Terrier 7	WestHighlandWhiteTerr08	West Highland White Terrier	PRJNA448733	SAMN08873428	F	18.792899999999999	19.537299999999998	0.96189852231372819	West Highland White Terrier 7	West Highland White Terrier	100				
+West Highland White Terrier 8	WestHighlandWhiteTerr09	West Highland White Terrier	PRJNA448733	SAMN08873429	F	27.892900000000001	28.2348	0.98789082975618747	West Highland White Terrier 8	West Highland White Terrier	100				
+West Highland White Terrier 9	WW174	West Highland White Terrier	PRJEB16012	SAMEA4506901	F	21.641999999999999	21.918600000000001	0.9873805808765157	West Highland White Terrier 9	West Highland White Terrier	100				
+West Highland White Terrier 10	WW362	West Highland White Terrier	PRJEB16012	SAMEA4509489	M	19.250800000000002	10.8149	1.7800257052769792	West Highland White Terrier 10	West Highland White Terrier	100				
+West Highland White Terrier 11	WW558	West Highland White Terrier	PRJEB16012	SAMEA104091561	F	36.436599999999999	36.123699999999999	1.0086619034041364	West Highland White Terrier 11	West Highland White Terrier	100				
+Whippet	Whippet01	Whippet	PRJEB16012	SAMEA4506886	M	26.584399999999999	14.8847	1.7860218882476635	Whippet	Whippet	100				
+Wolf 1	AlaskanWolf	Wolf	PRJNA331222	SAMN05439956	F	7.2535400000000001	7.29244	0.99466570859684822							
+Wolf 2	AlgonquinWolf13467	Wolf	PRJNA331222	SAMN05791669	M	5.1624699999999999	3.27685	1.5754367761722385							
+Wolf 3	AlgonquinWolf13470	Wolf	PRJNA331222	SAMN05791668	F	7.2024999999999997	7.2659700000000003	0.99126475886908416							
+Wolf 4	QuebecWolf	Wolf	PRJNA331222	SAMN05736724	F	6.6652800000000001	8.3780400000000004	0.79556554993769424							
+Wolf 5	WO001_895	Wolf	PRJEB16012	SAMEA104091563	F	27.113800000000001	27.212199999999999	0.99638397483481678							
+Wolf 6	WO002_732	Wolf	PRJEB16012	SAMEA104091564	M	22.166	12.4671	1.7779595896399323							
+Wolf 7	WO003_636	Wolf	PRJEB16012	SAMEA104091565	F	26.027999999999999	38.0625	0.68382266009852211							
+Wolf 8	Wolf40	Wolf	PRJNA299506	SAMN04209256	F	16.430299999999999	16.326499999999999	1.0063577619208035							
+Wolf 9	Wolf41	Wolf	PRJNA361023	SAMN06219538	M	45.446800000000003	25.469100000000001	1.7843897114542722							
+Wolf 10	Wolf42	Wolf	PRJNA361023	SAMN06219539	F	42.514299999999999	42.212800000000001	1.0071423833529165							
+Xiasi Dog	XiasiDog01	Xiasi Dog	PRJNA232497	SAMN02485580	M	7.5715899999999996	4.3930600000000002	1.7235343928833204	Xiasi Dog	outside Chow Chow clade	100	Breed not available for comparison			
+Xoloitzcuintli 1	MexicanHairless01	Xoloitzcuintli	PRJNA266585	SAMN03168385	M	16.3079	9.1464599999999994	1.782973959324154	Xoloitzcuintli 1	Xoloitzcuintli	92				
+Xoloitzcuintli 2	Xoloitzcuintli01	Xoloitzcuintli	PRJNA232497	SAMN02485566	M	15.0686	8.6231100000000005	1.7474669811703665	Xoloitzcuintli 2	Xoloitzcuintli	92				
+Yorkshire Terrier 1	BAN00315	Yorkshire Terrier	PRJNA448733	SAMN08873447	M	19.353000000000002	11.1797	1.7310840183546965	Yorkshire Terrier 1	Yorkshire Terrier	100				One of six BAM file that needed to be remade after making 722g VCF - Slight diffences in genotypes in 722g VCF compared to a joint call of the 6g for a subset of Illumina SNPchip SNPs (13 out of 122374 tested for 0.01% discordance)
+Yorkshire Terrier 2	PER00449	Yorkshire Terrier	PRJNA448733	SAMN08873448	F	15.1524	13.6861	1.1071378990362486	Yorkshire Terrier 2	Yorkshire Terrier	100				One of six BAM file that needed to be remade after making 722g VCF - Slight diffences in genotypes in 722g VCF compared to a joint call of the 6g for a subset of Illumina SNPchip SNPs (2 out of 110795 tested for 0.001% discordance)
+Yorkshire Terrier 3	BAN00032	Yorkshire Terrier	PRJNA448733	SAMN08873449	F	26.494599999999998	26.963100000000001	0.98262440149686048	Yorkshire Terrier 3	Yorkshire Terrier	100				
+Yorkshire Terrier 4	BAN00041	Yorkshire Terrier	PRJNA448733	SAMN08873450	M	22.833500000000001	12.949299999999999	1.7632999467152666	Yorkshire Terrier 4	Yorkshire Terrier	100				
+Yorkshire Terrier 5	BAN00079	Yorkshire Terrier	PRJNA448733	SAMN08873451	M	15.9512	10.4194	1.5309134883006699	Yorkshire Terrier 5	Yorkshire Terrier	100				
+Yorkshire Terrier 6	BAN00127	Yorkshire Terrier	PRJNA448733	SAMN08873452	F	22.046900000000001	22.0152	1.0014399142410699	Yorkshire Terrier 6	Yorkshire Terrier	100				
+Yorkshire Terrier 7	BAN00133	Yorkshire Terrier	PRJNA448733	SAMN08873453	M	16.148	10.690099999999999	1.5105564961974163	Yorkshire Terrier 7	Yorkshire Terrier	100				
+Yorkshire Terrier 8	BAN00136	Yorkshire Terrier	PRJNA448733	SAMN08873454	M	22.574000000000002	16.488499999999998	1.3690754161991694	Yorkshire Terrier 8	Yorkshire Terrier	100				
+Yorkshire Terrier 9	BAN00150	Yorkshire Terrier	PRJNA448733	SAMN08873455	F	7.22173	8.3872699999999991	0.86103463939994784	Yorkshire Terrier 9	Yorkshire Terrier	100				
+Yorkshire Terrier 10	BAN00183	Yorkshire Terrier	PRJNA448733	SAMN08873456	F	16.480599999999999	19.338200000000001	0.8522303006484574	Yorkshire Terrier 10	Yorkshire Terrier	100				
+Yorkshire Terrier 11	BAN00235	Yorkshire Terrier	PRJNA448733	SAMN08873457	M	14.911799999999999	8.8657000000000004	1.6819653270469335	Yorkshire Terrier 11	Yorkshire Terrier	100				
+Yorkshire Terrier 12	BAN00283	Yorkshire Terrier	PRJNA448733	SAMN08873458	M	17.339500000000001	9.7787299999999995	1.7731852704799091	Yorkshire Terrier 12	Yorkshire Terrier	100				
+Yorkshire Terrier 13	BAN00289	Yorkshire Terrier	PRJNA448733	SAMN08873459	M	17.026599999999998	9.5998900000000003	1.7736244894472748	Yorkshire Terrier 13	Yorkshire Terrier	100				
+Yorkshire Terrier 14	BAN00368	Yorkshire Terrier	PRJNA448733	SAMN08873460	M	18.116700000000002	10.236700000000001	1.7697793234147723	Yorkshire Terrier 14	Yorkshire Terrier	100				
+Yorkshire Terrier 15	BAN00380	Yorkshire Terrier	PRJNA448733	SAMN08873461	M	16.147600000000001	10.4277	1.5485293976619965	Yorkshire Terrier 15	Yorkshire Terrier	100				
+Yorkshire Terrier 16	BAN00437	Yorkshire Terrier	PRJNA448733	SAMN08873462	F	16.001000000000001	18.152899999999999	0.88145695729057072	Yorkshire Terrier 16	Yorkshire Terrier	100				
+Yorkshire Terrier 17	BAN00449	Yorkshire Terrier	PRJNA448733	SAMN08873463	M	16.358899999999998	10.2272	1.5995482634543177	Yorkshire Terrier 17	Yorkshire Terrier	100				
+Yorkshire Terrier 18	BAN00461	Yorkshire Terrier	PRJNA448733	SAMN08873464	M	16.076000000000001	11.460900000000001	1.4026821628318893	Yorkshire Terrier 18	Yorkshire Terrier	100				
+Yorkshire Terrier 19	PER00016	Yorkshire Terrier	PRJNA448733	SAMN08873465	F	17.438500000000001	17.797000000000001	0.97985615553183125	Yorkshire Terrier 19	Yorkshire Terrier	100				
+Yorkshire Terrier 20	PER00018	Yorkshire Terrier	PRJNA448733	SAMN08873466	M	16.892700000000001	9.6074800000000007	1.758286251962013	Yorkshire Terrier 20	Yorkshire Terrier	100				
+Yorkshire Terrier 21	PER00025	Yorkshire Terrier	PRJNA448733	SAMN08873467	M	15.007999999999999	9.3446200000000008	1.6060578172253124	Yorkshire Terrier 21	Yorkshire Terrier	100				
+Yorkshire Terrier 22	PER00061	Yorkshire Terrier	PRJNA448733	SAMN08873468	F	15.1091	15.5024	0.97462973475074832	Yorkshire Terrier 22	Yorkshire Terrier	100				
+Yorkshire Terrier 23	PER00064	Yorkshire Terrier	PRJNA448733	SAMN08873469	F	15.7338	16.1587	0.97370456781795567	Yorkshire Terrier 23	Yorkshire Terrier	100				
+Yorkshire Terrier 24	PER00075	Yorkshire Terrier	PRJNA448733	SAMN08873470	F	26.545400000000001	27.3537	0.97045006708416048	Yorkshire Terrier 24	Yorkshire Terrier	100				
+Yorkshire Terrier 25	PER00107	Yorkshire Terrier	PRJNA448733	SAMN08873471	M	17.296199999999999	9.9187200000000004	1.7437935540069684	Yorkshire Terrier 25	Yorkshire Terrier	100				
+Yorkshire Terrier 26	PER00138	Yorkshire Terrier	PRJNA448733	SAMN08873472	M	14.88	8.0091300000000007	1.8578796947983114	Yorkshire Terrier 26	Yorkshire Terrier	100				
+Yorkshire Terrier 27	PER00142	Yorkshire Terrier	PRJNA448733	SAMN08873473	M	9.9898199999999999	5.99017	1.6677022521898377	Yorkshire Terrier 27	Yorkshire Terrier	100				
+Yorkshire Terrier 28	PER00144	Yorkshire Terrier	PRJNA448733	SAMN08873474	M	14.2286	8.2118500000000001	1.7326911719040168	Yorkshire Terrier 28	Yorkshire Terrier	100				
+Yorkshire Terrier 29	PER00152	Yorkshire Terrier	PRJNA448733	SAMN08873475	F	9.0593199999999996	10.4765	0.86472772395361042	Yorkshire Terrier 29	Yorkshire Terrier	100				
+Yorkshire Terrier 30	PER00204	Yorkshire Terrier	PRJNA448733	SAMN08873476	F	26.5229	27.2849	0.97207246498979283	Yorkshire Terrier 30	Yorkshire Terrier	100				
+Yorkshire Terrier 31	PER00226	Yorkshire Terrier	PRJNA448733	SAMN08873477	M	15.3642	8.9471500000000006	1.7172172144202342	Yorkshire Terrier 31	Yorkshire Terrier	100				
+Yorkshire Terrier 32	PER00259	Yorkshire Terrier	PRJNA448733	SAMN08873478	F	16.003699999999998	18.043199999999999	0.88696572670036355	Yorkshire Terrier 32	Yorkshire Terrier	100				
+Yorkshire Terrier 33	PER00274	Yorkshire Terrier	PRJNA448733	SAMN08873479	M	15.9438	9.8122399999999992	1.6248889142540339	Yorkshire Terrier 33	Yorkshire Terrier	100				
+Yorkshire Terrier 34	PER00313	Yorkshire Terrier	PRJNA448733	SAMN08873480	M	13.130699999999999	8.6219999999999999	1.522929714683368	Yorkshire Terrier 34	Yorkshire Terrier	100				
+Yorkshire Terrier 35	PER00314	Yorkshire Terrier	PRJNA448733	SAMN08873481	F	15.081799999999999	15.494400000000001	0.97337102437009493	Yorkshire Terrier 35	Yorkshire Terrier	100				
+Yorkshire Terrier 36	PER00321	Yorkshire Terrier	PRJNA448733	SAMN08873482	M	10.263299999999999	6.11747	1.6777033642992936	Yorkshire Terrier 36	Yorkshire Terrier	100				
+Yorkshire Terrier 37	PER00324	Yorkshire Terrier	PRJNA448733	SAMN08873483	F	12.303800000000001	14.3224	0.85905993408925885	Yorkshire Terrier 37	Yorkshire Terrier	100				
+Yorkshire Terrier 38	PER00327	Yorkshire Terrier	PRJNA448733	SAMN08873484	M	15.5473	8.9664400000000004	1.7339434602807802	Yorkshire Terrier 38	Yorkshire Terrier	100				
+Yorkshire Terrier 39	PER00344	Yorkshire Terrier	PRJNA448733	SAMN08873485	M	15.5962	10.028	1.5552652572796171	Yorkshire Terrier 39	Yorkshire Terrier	100				
+Yorkshire Terrier 40	PER00361	Yorkshire Terrier	PRJNA448733	SAMN08873486	M	18.312799999999999	10.418200000000001	1.7577700562477201	Yorkshire Terrier 40	Yorkshire Terrier	100				
+Yorkshire Terrier 41	PER00393	Yorkshire Terrier	PRJNA448733	SAMN08873487	F	15.846299999999999	14.000500000000001	1.1318381486375486	Yorkshire Terrier 41	Yorkshire Terrier	100				
+Yorkshire Terrier 42	PER00394	Yorkshire Terrier	PRJNA448733	SAMN08873488	M	18.602699999999999	10.5093	1.7701178955782022	Yorkshire Terrier 42	Yorkshire Terrier	100				
+Yorkshire Terrier 43	PER00408	Yorkshire Terrier	PRJNA448733	SAMN08873489	M	11.321300000000001	7.34945	1.5404281953071319	Yorkshire Terrier 43	Yorkshire Terrier	100				
+Yorkshire Terrier 44	PER00409	Yorkshire Terrier	PRJNA448733	SAMN08873490	F	22.8567	25.769400000000001	0.88697059302894132	Yorkshire Terrier 44	Yorkshire Terrier	100				
+Yorkshire Terrier 45	PER00425	Yorkshire Terrier	PRJNA448733	SAMN08873491	M	14.5863	8.3950499999999995	1.7374881626672862	Yorkshire Terrier 45	Yorkshire Terrier	100				
+Yorkshire Terrier 46	PER00429	Yorkshire Terrier	PRJNA448733	SAMN08873492	M	7.7344900000000001	5.03599	1.5358430020710923	Yorkshire Terrier 46	Yorkshire Terrier	100				
+Yorkshire Terrier 47	PER00438	Yorkshire Terrier	PRJNA448733	SAMN08873493	M	4.6531500000000001	3.1671800000000001	1.4691776280476638	Yorkshire Terrier 47	Yorkshire Terrier	100				
+Yorkshire Terrier 48	PER00454	Yorkshire Terrier	PRJNA448733	SAMN08873494	M	14.524100000000001	8.8129000000000008	1.6480500175878541	Yorkshire Terrier 48	Yorkshire Terrier	100				
+Yorkshire Terrier 49	PER00462	Yorkshire Terrier	PRJNA448733	SAMN08873495	M	16.555099999999999	9.5688099999999991	1.7301106407170799	Yorkshire Terrier 49	Yorkshire Terrier	100				
+Yorkshire Terrier 50	PER00465	Yorkshire Terrier	PRJNA448733	SAMN08873496	M	19.9313	11.384399999999999	1.7507554196971296	Yorkshire Terrier 50	Yorkshire Terrier	100				
+Yorkshire Terrier 51	PER00481	Yorkshire Terrier	PRJNA448733	SAMN08873497	M	17.441600000000001	10.023899999999999	1.7400013966619781	Yorkshire Terrier 51	Yorkshire Terrier	100				
+Yorkshire Terrier 52	PER00484	Yorkshire Terrier	PRJNA448733	SAMN08873498	F	15.382999999999999	17.721	0.86806613622256079	Yorkshire Terrier 52	Yorkshire Terrier	100				
+Yorkshire Terrier 53	PER00550	Yorkshire Terrier	PRJNA448733	SAMN08873499	M	14.6754	8.8927800000000001	1.6502600986418194	Yorkshire Terrier 53	Yorkshire Terrier	100				
+Yorkshire Terrier 54	PER00594	Yorkshire Terrier	PRJNA448733	SAMN08873500	F	13.0763	13.340400000000001	0.98020299241402054	Yorkshire Terrier 54	Yorkshire Terrier	100				
+Yorkshire Terrier 55	PER00602	Yorkshire Terrier	PRJNA448733	SAMN08873501	M	8.7735699999999994	5.3496199999999998	1.64003611471469	Yorkshire Terrier 55	Yorkshire Terrier	100				
+Yorkshire Terrier 56	PER00605	Yorkshire Terrier	PRJNA448733	SAMN08873502	M	17.319199999999999	11.4168	1.5169925022773456	Yorkshire Terrier 56	Yorkshire Terrier	100				
+Yorkshire Terrier 57	PER00606	Yorkshire Terrier	PRJNA448733	SAMN08873503	M	16.133900000000001	10.1717	1.5861557065190677	Yorkshire Terrier 57	Yorkshire Terrier	100				
+Yorkshire Terrier 58	PER00607	Yorkshire Terrier	PRJNA448733	SAMN08873504	M	21.918600000000001	12.3025	1.7816378784799838	Yorkshire Terrier 58	Yorkshire Terrier	100				
+Yorkshire Terrier 59	PER00622	Yorkshire Terrier	PRJNA448733	SAMN08873505	M	16.901	13.3965	1.2615981786287462	Yorkshire Terrier 59	Yorkshire Terrier	100				
+Yorkshire Terrier 60	PER00626	Yorkshire Terrier	PRJNA448733	SAMN08873506	M	16.056999999999999	10.4663	1.5341620247843075	Yorkshire Terrier 60	Yorkshire Terrier	100				
+Yorkshire Terrier 61	PER00640	Yorkshire Terrier	PRJNA448733	SAMN08873507	M	4.7210400000000003	3.0735000000000001	1.5360468521229869	Yorkshire Terrier 61	Yorkshire Terrier	100				
+Yorkshire Terrier 62	PER00642	Yorkshire Terrier	PRJNA448733	SAMN08873508	F	14.4015	14.5686	0.98853012643630822	Yorkshire Terrier 62	Yorkshire Terrier	100				
+Yorkshire Terrier 63	PER00646	Yorkshire Terrier	PRJNA448733	SAMN08873509	F	14.9534	15.1791	0.98513087073673666	Yorkshire Terrier 63	Yorkshire Terrier	100				
+Yorkshire Terrier 64	PER00650	Yorkshire Terrier	PRJNA448733	SAMN08873510	M	13.679500000000001	7.8306800000000001	1.7469108685324903	Yorkshire Terrier 64	Yorkshire Terrier	100				
+Yorkshire Terrier 65	PER00658	Yorkshire Terrier	PRJNA448733	SAMN08873511	M	18.424099999999999	10.6219	1.734539018443028	Yorkshire Terrier 65	Yorkshire Terrier	100				
+Yorkshire Terrier 66	PER00738	Yorkshire Terrier	PRJNA448733	SAMN08873512	M	15.8011	9.1356400000000004	1.7296106238862301	Yorkshire Terrier 66	Yorkshire Terrier	100				
+Yorkshire Terrier 67	PER00739	Yorkshire Terrier	PRJNA448733	SAMN08873513	F	15.3187	15.3926	0.99519899172329562	Yorkshire Terrier 67	Yorkshire Terrier	100				
+Yorkshire Terrier 68	PER00747	Yorkshire Terrier	PRJNA448733	SAMN08873514	F	2.0308700000000002	2.08501	0.97403369768010717	Yorkshire Terrier 68	Yorkshire Terrier	100				
+Yorkshire Terrier 69	PER00750	Yorkshire Terrier	PRJNA448733	SAMN08873515	M	15.337300000000001	8.8785699999999999	1.7274516053823985	Yorkshire Terrier 69	Yorkshire Terrier	100				
+Yorkshire Terrier 70	PER00758	Yorkshire Terrier	PRJNA448733	SAMN08873516	F	15.6075	16.420100000000001	0.9505118726438937	Yorkshire Terrier 70	Yorkshire Terrier	100				
+Yorkshire Terrier 71	PER00777	Yorkshire Terrier	PRJNA448733	SAMN08873517	M	16.502300000000002	9.7372200000000007	1.6947650356056452	Yorkshire Terrier 71	Yorkshire Terrier	100				
+Yorkshire Terrier 72	PER00806	Yorkshire Terrier	PRJNA448733	SAMN08873518	M	13.428800000000001	8.7773699999999995	1.5299343653053252	Yorkshire Terrier 72	Yorkshire Terrier	100				
+Yorkshire Terrier 73	PER00816	Yorkshire Terrier	PRJNA448733	SAMN08873519	M	16.058199999999999	9.5680099999999992	1.6783218244964209	Yorkshire Terrier 73	Yorkshire Terrier	100				
+Yorkshire Terrier 74	YorkshireTerrier01	Yorkshire Terrier	PRJEB13468	SAMEA3928145	M	21.180199999999999	11.8895	1.7814205811850792	Yorkshire Terrier 74	Yorkshire Terrier	100			
+Yorkshire Terrier 75	YorkshireTerrier02	Yorkshire Terrier	PRJNA299099	SAMN04195509	M	32.975700000000003	18.443200000000001	1.7879597900581246	Yorkshire Terrier 75	Yorkshire Terrier	100				
+	

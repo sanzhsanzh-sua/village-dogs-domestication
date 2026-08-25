@@ -1,0 +1,13 @@
+name: village-dogs-genomics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - sra-tools
+  - entrez-direct
+  - ncbi-datasets-cli
+  - bwa
+  - samtools
+  - bcftools
+  - bedtools
